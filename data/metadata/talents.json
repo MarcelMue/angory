@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ben",
+    "channel": "UCZocsFkVaKQVPfVjbm4avYg",
+    "name": "Ben Edgar",
+    "nickname": "Bedgar",
+    "short": "Ben",
+    "twitter": "bedgarsan"
+  },
+  {
+    "id": "tom",
+    "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+    "name": "Tom Clark",
+    "nickname": "Angory Tom",
+    "short": "Tom",
+    "twitter": "angory_tom"
+  },
+  {
+    "id": "simon",
+    "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+    "name": "Simon Lane",
+    "nickname": "Simon Honeydew",
+    "short": "Simon",
+    "twitter": "simonhoneydew"
+  }
+]

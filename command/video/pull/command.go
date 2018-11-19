@@ -39,7 +39,7 @@ func New() (*Command, error) {
 	}
 
 	c.cobraCommand.PersistentFlags().StringVarP(&flags.APIKey, "key", "k", "", "API key for the youtube v3 API.")
-	c.cobraCommand.PersistentFlags().StringVarP(&flags.Path, "path", "p", "data/youtube_videos.json", "Path to write the output file to.")
+	c.cobraCommand.PersistentFlags().StringVarP(&flags.Path, "path", "p", "data/output/youtube_videos.json", "Path to write the output file to.")
 	c.cobraCommand.PersistentFlags().StringVarP(&flags.YoutubeChannel, "channel", "c", "UC5rUMdCFWPXYs9e8PBLzq5g", "ID of the youtube channel to pull videos from.")
 
 	return c, nil

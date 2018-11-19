@@ -7,20 +7,26 @@ import (
 
 	"github.com/juju/errors"
 	annotation "github.com/marcelmue/angory/service/metadata/Annotation"
+	"github.com/marcelmue/angory/service/metadata/talent"
 	"github.com/marcelmue/angory/service/metadata/video"
 	youtube "google.golang.org/api/youtube/v3"
 )
 
 type Config struct {
+	TalentsPath          string
 	VideoAnnotationsPath string
 	YoutubeVideosPath    string
 }
 type Service struct {
+	talentsPath          string
 	videoAnnotationsPath string
 	youtubeVideosPath    string
 }
 
 func New(config Config) (*Service, error) {
+	if config.TalentsPath == "" {
+		return nil, errors.Errorf("%T.TalentsPath must not be empty", config)
+	}
 	if config.VideoAnnotationsPath == "" {
 		return nil, errors.Errorf("%T.AnnotationsPath must not be empty", config)
 	}
@@ -29,6 +35,7 @@ func New(config Config) (*Service, error) {
 	}
 
 	s := &Service{
+		talentsPath:          config.TalentsPath,
 		videoAnnotationsPath: config.VideoAnnotationsPath,
 		youtubeVideosPath:    config.YoutubeVideosPath,
 	}
@@ -41,7 +48,12 @@ func (s *Service) AnnotateVideos() ([]*video.Video, error) {
 	if err != nil {
 		return []*video.Video{}, errors.Trace(err)
 	}
-	annotationsMap := annotationsMap(annotations)
+	talents, err := s.fromTalentsPath()
+	if err != nil {
+		return []*video.Video{}, errors.Trace(err)
+	}
+	talentsMap := talentsMap(talents)
+	annotationsMap := annotationsMap(annotations, talentsMap)
 	videos, err := s.fromYoutubeVideosPath()
 
 	if err != nil {
@@ -68,6 +80,24 @@ func (s *Service) fromAnnotationsPath() ([]annotation.Annotation, error) {
 	}
 
 	var result []annotation.Annotation
+	json.Unmarshal([]byte(byteValue), &result)
+
+	return result, nil
+}
+
+func (s *Service) fromTalentsPath() ([]talent.Talent, error) {
+	jsonFile, err := os.Open(s.talentsPath)
+	if err != nil {
+		return []talent.Talent{}, errors.Trace(err)
+	}
+	defer jsonFile.Close()
+
+	byteValue, err := ioutil.ReadAll(jsonFile)
+	if err != nil {
+		return []talent.Talent{}, errors.Trace(err)
+	}
+
+	var result []talent.Talent
 	json.Unmarshal([]byte(byteValue), &result)
 
 	return result, nil
@@ -111,12 +141,32 @@ func (s *Service) fromYoutubeVideosPath() ([]*video.Video, error) {
 	return result, nil
 }
 
-func annotationsMap(annotations []annotation.Annotation) map[string]video.Annotation {
+func annotationsMap(annotations []annotation.Annotation, talents map[string]video.Talent) map[string]video.Annotation {
 	m := make(map[string]video.Annotation)
 	for _, annotation := range annotations {
+		annotatedTalents := []video.Talent{}
+		for _, talentID := range annotation.TalentIDs {
+			if val, ok := talents[talentID]; ok {
+				annotatedTalents = append(annotatedTalents, val)
+			}
+		}
 		m[annotation.VideoID] = video.Annotation{
-			Game:   annotation.Game,
-			Talent: annotation.Talent,
+			Game:    annotation.Game,
+			Talents: annotatedTalents,
+		}
+	}
+	return m
+}
+
+func talentsMap(talents []talent.Talent) map[string]video.Talent {
+	m := make(map[string]video.Talent)
+	for _, talent := range talents {
+		m[talent.ID] = video.Talent{
+			Channel:  talent.Channel,
+			Name:     talent.Name,
+			Nickname: talent.Nickname,
+			Short:    talent.Short,
+			Twitter:  talent.Twitter,
 		}
 	}
 	return m

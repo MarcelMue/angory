@@ -1,6 +1,7 @@
 package video
 
 import (
+	"sort"
 	"strings"
 
 	"github.com/juju/errors"
@@ -50,6 +51,10 @@ func (s *Service) FromPlaylist(playlistID string) ([]*youtube.Video, error) {
 				return nil, errors.Trace(err)
 			}
 			allVideos = append(allVideos, pageVideos...)
+
+			sort.Slice(allVideos, func(i int, j int) bool {
+				return allVideos[i].Snippet.PublishedAt > allVideos[j].Snippet.PublishedAt
+			})
 
 			nextPageToken = response.NextPageToken
 			if nextPageToken == "" {
