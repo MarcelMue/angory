@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/juju/errors"
-	annotation "github.com/marcelmue/angory/service/metadata/Annotation"
-	"github.com/marcelmue/angory/service/metadata/talent"
+	"github.com/marcelmue/angory/pkg/annotation"
+	"github.com/marcelmue/angory/pkg/talent"
 	"github.com/marcelmue/angory/service/metadata/video"
 	youtube "google.golang.org/api/youtube/v3"
 )
@@ -44,11 +44,11 @@ func New(config Config) (*Service, error) {
 }
 
 func (s *Service) AnnotateVideos() ([]*video.Video, error) {
-	annotations, err := s.fromAnnotationsPath()
+	annotations, err := annotation.FromPath(s.videoAnnotationsPath)
 	if err != nil {
 		return []*video.Video{}, errors.Trace(err)
 	}
-	talents, err := s.fromTalentsPath()
+	talents, err := talent.FromPath(s.talentsPath)
 	if err != nil {
 		return []*video.Video{}, errors.Trace(err)
 	}
@@ -65,42 +65,6 @@ func (s *Service) AnnotateVideos() ([]*video.Video, error) {
 		}
 	}
 	return videos, nil
-}
-
-func (s *Service) fromAnnotationsPath() ([]annotation.Annotation, error) {
-	jsonFile, err := os.Open(s.videoAnnotationsPath)
-	if err != nil {
-		return []annotation.Annotation{}, errors.Trace(err)
-	}
-	defer jsonFile.Close()
-
-	byteValue, err := ioutil.ReadAll(jsonFile)
-	if err != nil {
-		return []annotation.Annotation{}, errors.Trace(err)
-	}
-
-	var result []annotation.Annotation
-	json.Unmarshal([]byte(byteValue), &result)
-
-	return result, nil
-}
-
-func (s *Service) fromTalentsPath() ([]talent.Talent, error) {
-	jsonFile, err := os.Open(s.talentsPath)
-	if err != nil {
-		return []talent.Talent{}, errors.Trace(err)
-	}
-	defer jsonFile.Close()
-
-	byteValue, err := ioutil.ReadAll(jsonFile)
-	if err != nil {
-		return []talent.Talent{}, errors.Trace(err)
-	}
-
-	var result []talent.Talent
-	json.Unmarshal([]byte(byteValue), &result)
-
-	return result, nil
 }
 
 func (s *Service) fromYoutubeVideosPath() ([]*video.Video, error) {

@@ -78,6 +78,7 @@ func (c *Command) Execute(cmd *cobra.Command, args []string) {
 			log.Fatalf("Error: %v", errors.ErrorStack(err))
 			os.Exit(1)
 		}
+		log.Printf("Getting upload playlist for channel %s \n", flags.YoutubeChannel)
 		playlistID, err = s.GetUploadID(flags.YoutubeChannel)
 		if err != nil {
 			log.Fatalf("Error: %v", errors.ErrorStack(err))
@@ -95,6 +96,7 @@ func (c *Command) Execute(cmd *cobra.Command, args []string) {
 			log.Fatalf("Error: %v", errors.ErrorStack(err))
 			os.Exit(1)
 		}
+		log.Printf("Getting videos for playlist %s \n", playlistID)
 		videos, err = s.FromPlaylist(playlistID)
 		if err != nil {
 			log.Fatalf("Error: %v", errors.ErrorStack(err))
@@ -102,6 +104,7 @@ func (c *Command) Execute(cmd *cobra.Command, args []string) {
 		}
 	}
 
+	log.Printf("Writing videos to file \n")
 	videosJSON, err := json.MarshalIndent(videos, "", "  ")
 	if err != nil {
 		log.Fatalf("Error: %v", errors.ErrorStack(err))
@@ -119,6 +122,5 @@ func (c *Command) Execute(cmd *cobra.Command, args []string) {
 		os.Exit(1)
 	}
 
-	log.Printf("Pulled the complete list of all videos for %s to file %s \n", flags.YoutubeChannel, flags.Path)
-
+	log.Printf("Pulled the complete list of all videos for channel %s to file %s \n", flags.YoutubeChannel, flags.Path)
 }
