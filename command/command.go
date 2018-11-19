@@ -4,6 +4,7 @@ import (
 	"github.com/juju/errors"
 	"github.com/spf13/cobra"
 
+	"github.com/marcelmue/angory/command/add"
 	"github.com/marcelmue/angory/command/version"
 	"github.com/marcelmue/angory/command/video"
 )
@@ -32,6 +33,14 @@ func New(config Config) (*Command, error) {
 		Run:   c.Execute,
 	}
 
+	var addCommand *add.Command
+	{
+		addCommand, err = add.New()
+		if err != nil {
+			return nil, errors.Trace(err)
+		}
+	}
+
 	var videoCommand *video.Command
 	{
 		videoCommand, err = video.New()
@@ -54,6 +63,7 @@ func New(config Config) (*Command, error) {
 		}
 	}
 
+	c.cobraCommand.AddCommand(addCommand.CobraCommand())
 	c.cobraCommand.AddCommand(videoCommand.CobraCommand())
 	c.cobraCommand.AddCommand(versionCommand.CobraCommand())
 

@@ -17,6 +17,37 @@ type Talent struct {
 	Twitter  string `json:"twitter,omitempty"`
 }
 
+func Contains(talents []Talent, talent Talent) bool {
+	for _, t := range talents {
+		if t.ID == talent.ID {
+			return true
+		}
+	}
+	return false
+}
+
+func ToPath(path string, talent Talent) error {
+	talents, err := FromPath(path)
+	if err != nil {
+		return errors.Trace(err)
+	}
+	if Contains(talents, talent) {
+		return errors.Errorf("Talent with ID %s already exists", talent.ID)
+	}
+	talents = append(talents, talent)
+
+	talentsJSON, err := json.MarshalIndent(talents, "", "  ")
+	if err != nil {
+		return errors.Trace(err)
+	}
+	err = ioutil.WriteFile(path, talentsJSON, 0644)
+	if err != nil {
+		return errors.Trace(err)
+	}
+
+	return nil
+}
+
 func FromPath(path string) ([]Talent, error) {
 	jsonFile, err := os.Open(path)
 	if err != nil {
