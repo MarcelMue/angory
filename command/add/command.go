@@ -4,6 +4,7 @@ import (
 	"github.com/juju/errors"
 	"github.com/spf13/cobra"
 
+	"github.com/marcelmue/angory/command/add/annotation"
 	"github.com/marcelmue/angory/command/add/talent"
 )
 
@@ -26,6 +27,14 @@ func New() (*Command, error) {
 		Run:   c.Execute,
 	}
 
+	var annotationCommand *annotation.Command
+	{
+		annotationCommand, err = annotation.New()
+		if err != nil {
+			return nil, errors.Trace(err)
+		}
+	}
+
 	var talentCommand *talent.Command
 	{
 		talentCommand, err = talent.New()
@@ -34,6 +43,7 @@ func New() (*Command, error) {
 		}
 	}
 
+	c.cobraCommand.AddCommand(annotationCommand.CobraCommand())
 	c.cobraCommand.AddCommand(talentCommand.CobraCommand())
 
 	return c, nil

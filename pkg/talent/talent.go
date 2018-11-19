@@ -26,6 +26,24 @@ func Contains(talents []Talent, talent Talent) bool {
 	return false
 }
 
+func FromPath(path string) ([]Talent, error) {
+	jsonFile, err := os.Open(path)
+	if err != nil {
+		return []Talent{}, errors.Trace(err)
+	}
+	defer jsonFile.Close()
+
+	byteValue, err := ioutil.ReadAll(jsonFile)
+	if err != nil {
+		return []Talent{}, errors.Trace(err)
+	}
+
+	var result []Talent
+	json.Unmarshal([]byte(byteValue), &result)
+
+	return result, nil
+}
+
 func ToPath(path string, talent Talent) error {
 	talents, err := FromPath(path)
 	if err != nil {
@@ -46,22 +64,4 @@ func ToPath(path string, talent Talent) error {
 	}
 
 	return nil
-}
-
-func FromPath(path string) ([]Talent, error) {
-	jsonFile, err := os.Open(path)
-	if err != nil {
-		return []Talent{}, errors.Trace(err)
-	}
-	defer jsonFile.Close()
-
-	byteValue, err := ioutil.ReadAll(jsonFile)
-	if err != nil {
-		return []Talent{}, errors.Trace(err)
-	}
-
-	var result []Talent
-	json.Unmarshal([]byte(byteValue), &result)
-
-	return result, nil
 }
