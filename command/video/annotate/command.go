@@ -36,6 +36,7 @@ func New() (*Command, error) {
 	}
 
 	c.cobraCommand.PersistentFlags().StringVarP(&flags.AnnotatedVideosPath, "annotated-videos", "p", "data/output/annotated_videos.json", "Path to write the output file to.")
+	c.cobraCommand.PersistentFlags().StringVarP(&flags.GamesPath, "games", "", "data/metadata/games.json", "Path to the games for video annotations.")
 	c.cobraCommand.PersistentFlags().StringVarP(&flags.TalentsPath, "talents", "", "data/metadata/talents.json", "Path to the talents for video annotations.")
 	c.cobraCommand.PersistentFlags().StringVarP(&flags.VideoAnnotationsPath, "video-annotations", "", "data/metadata/video_annotations.json", "Path to the annotations for youtube videos.")
 	c.cobraCommand.PersistentFlags().StringVarP(&flags.YoutubeVideosPath, "yt-videos", "", "data/output/youtube_videos.json", "Path to the pulled youtube video metadata.")
@@ -51,6 +52,7 @@ func (c *Command) Execute(cmd *cobra.Command, args []string) {
 	var annotatedVideos []*video.Video
 	{
 		config := metadata.Config{
+			GamesPath:            flags.GamesPath,
 			TalentsPath:          flags.TalentsPath,
 			VideoAnnotationsPath: flags.VideoAnnotationsPath,
 			YoutubeVideosPath:    flags.YoutubeVideosPath,

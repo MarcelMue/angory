@@ -10,7 +10,7 @@ import (
 
 type Annotation struct {
 	VideoID   string   `json:"id"`
-	Game      string   `json:"game,omitempty"`
+	GameID    string   `json:"gameID,omitempty"`
 	TalentIDs []string `json:"talentIDs,omitempty"`
 }
 

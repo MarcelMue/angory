@@ -1,0 +1,27 @@
+[
+  {
+    "id": "gb",
+    "name": "God's Basement",
+    "steam": "753930"
+  },
+  {
+    "id": "coc",
+    "name": "Call of Cthulhu",
+    "steam": "399810"
+  },
+  {
+    "id": "fh",
+    "name": "Fluffy Horde",
+    "steam": "777880"
+  },
+  {
+    "id": "toe",
+    "name": "Tales of Escape",
+    "steam": "587860"
+  },
+  {
+    "id": "tracks",
+    "name": "Tracks - The Train Set Game",
+    "steam": "657240"
+  }
+]

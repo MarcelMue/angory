@@ -7,23 +7,29 @@ import (
 
 	"github.com/juju/errors"
 	"github.com/marcelmue/angory/pkg/annotation"
+	"github.com/marcelmue/angory/pkg/game"
 	"github.com/marcelmue/angory/pkg/talent"
 	"github.com/marcelmue/angory/service/metadata/video"
 	youtube "google.golang.org/api/youtube/v3"
 )
 
 type Config struct {
+	GamesPath            string
 	TalentsPath          string
 	VideoAnnotationsPath string
 	YoutubeVideosPath    string
 }
 type Service struct {
+	gamesPath            string
 	talentsPath          string
 	videoAnnotationsPath string
 	youtubeVideosPath    string
 }
 
 func New(config Config) (*Service, error) {
+	if config.GamesPath == "" {
+		return nil, errors.Errorf("%T.GamesPath must not be empty", config)
+	}
 	if config.TalentsPath == "" {
 		return nil, errors.Errorf("%T.TalentsPath must not be empty", config)
 	}
@@ -35,6 +41,7 @@ func New(config Config) (*Service, error) {
 	}
 
 	s := &Service{
+		gamesPath:            config.GamesPath,
 		talentsPath:          config.TalentsPath,
 		videoAnnotationsPath: config.VideoAnnotationsPath,
 		youtubeVideosPath:    config.YoutubeVideosPath,
@@ -44,16 +51,24 @@ func New(config Config) (*Service, error) {
 }
 
 func (s *Service) AnnotateVideos() ([]*video.Video, error) {
-	annotations, err := annotation.FromPath(s.videoAnnotationsPath)
+	games, err := game.FromPath(s.gamesPath)
 	if err != nil {
 		return []*video.Video{}, errors.Trace(err)
 	}
+	gamesMap := gamesMap(games)
+
 	talents, err := talent.FromPath(s.talentsPath)
 	if err != nil {
 		return []*video.Video{}, errors.Trace(err)
 	}
 	talentsMap := talentsMap(talents)
-	annotationsMap := annotationsMap(annotations, talentsMap)
+
+	annotations, err := annotation.FromPath(s.videoAnnotationsPath)
+	if err != nil {
+		return []*video.Video{}, errors.Trace(err)
+	}
+	annotationsMap := annotationsMap(annotations, gamesMap, talentsMap)
+
 	videos, err := s.fromYoutubeVideosPath()
 
 	if err != nil {
@@ -105,18 +120,35 @@ func (s *Service) fromYoutubeVideosPath() ([]*video.Video, error) {
 	return result, nil
 }
 
-func annotationsMap(annotations []annotation.Annotation, talents map[string]video.Talent) map[string]video.Annotation {
+func annotationsMap(annotations []annotation.Annotation, games map[string]video.Game, talents map[string]video.Talent) map[string]video.Annotation {
 	m := make(map[string]video.Annotation)
 	for _, annotation := range annotations {
-		annotatedTalents := []video.Talent{}
+		var annotatedTalents []*video.Talent
 		for _, talentID := range annotation.TalentIDs {
 			if val, ok := talents[talentID]; ok {
-				annotatedTalents = append(annotatedTalents, val)
+				annotatedTalents = append(annotatedTalents, &val)
 			}
 		}
+
+		var annotatedGame *video.Game
+		if val, ok := games[annotation.GameID]; ok {
+			annotatedGame = &val
+		}
+
 		m[annotation.VideoID] = video.Annotation{
-			Game:    annotation.Game,
+			Game:    annotatedGame,
 			Talents: annotatedTalents,
+		}
+	}
+	return m
+}
+
+func gamesMap(games []game.Game) map[string]video.Game {
+	m := make(map[string]video.Game)
+	for _, game := range games {
+		m[game.ID] = video.Game{
+			Name:  game.Name,
+			Steam: game.Steam,
 		}
 	}
 	return m

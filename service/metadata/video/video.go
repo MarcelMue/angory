@@ -1,8 +1,13 @@
 package video
 
 type Annotation struct {
-	Game    string   `json:"game,omitempty"`
-	Talents []Talent `json:"talent,omitempty"`
+	Game    *Game     `json:"game,omitempty"`
+	Talents []*Talent `json:"talent,omitempty"`
+}
+
+type Game struct {
+	Name  string `json:"name,omitempty"`
+	Steam string `json:"steam,omitempty"`
 }
 
 type Statistics struct {
