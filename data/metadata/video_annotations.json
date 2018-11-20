@@ -1,14 +1,14 @@
 [
   {
     "id": "MDxZ-MAHP-4",
-    "game": "Fluffy Horde",
+    "gameID": "fh",
     "talentIDs": [
       "tom"
     ]
   },
   {
     "id": "4RH5rSB4abQ",
-    "game": "Tracks",
+    "gameID": "tracks",
     "talentIDs": [
       "tom"
     ]
@@ -22,7 +22,7 @@
   },
   {
     "id": "1Vj0oxVG1Ro",
-    "game": "Call of Cthulhu",
+    "gameID": "coc",
     "talentIDs": [
       "simon",
       "tom"
@@ -30,7 +30,7 @@
   },
   {
     "id": "f4QfVh9q2cM",
-    "game": "Tales of Escape",
+    "gameID": "toe",
     "talentIDs": [
       "lewis",
       "tom"
@@ -38,7 +38,7 @@
   },
   {
     "id": "SOTdbqwKzgI",
-    "game": "Gods Basement",
+    "gameID": "gb",
     "talentIDs": [
       "simon",
       "tom"

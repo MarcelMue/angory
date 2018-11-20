@@ -61,13 +61,13 @@ func (c *Command) Execute(cmd *cobra.Command, args []string) {
 	}
 
 	{
-		fmt.Println("Enter the annotations Game:")
-		newAnnotation.Game, err = reader.ReadString('\n')
+		fmt.Println("Enter the annotations GameID (one word: no capitals, multiple words: every starting letter):")
+		newAnnotation.GameID, err = reader.ReadString('\n')
 		if err != nil {
 			log.Fatalf("Error: %v", errors.ErrorStack(err))
 			os.Exit(1)
 		}
-		newAnnotation.Game = strings.Replace(newAnnotation.Game, "\n", "", -1)
+		newAnnotation.GameID = strings.Replace(newAnnotation.GameID, "\n", "", -1)
 	}
 
 	{

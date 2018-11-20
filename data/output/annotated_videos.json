@@ -1,7 +1,10 @@
 [
   {
     "annotation": {
-      "game": "Fluffy Horde",
+      "game": {
+        "name": "Fluffy Horde",
+        "steam": "777880"
+      },
       "talent": [
         {
           "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
@@ -77,7 +80,10 @@
   },
   {
     "annotation": {
-      "game": "Gods Basement",
+      "game": {
+        "name": "God's Basement",
+        "steam": "753930"
+      },
       "talent": [
         {
           "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
@@ -165,7 +171,10 @@
   },
   {
     "annotation": {
-      "game": "Tracks",
+      "game": {
+        "name": "Tracks - The Train Set Game",
+        "steam": "657240"
+      },
       "talent": [
         {
           "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
@@ -200,7 +209,10 @@
   },
   {
     "annotation": {
-      "game": "Tales of Escape",
+      "game": {
+        "name": "Tales of Escape",
+        "steam": "587860"
+      },
       "talent": [
         {
           "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
@@ -337,7 +349,10 @@
   },
   {
     "annotation": {
-      "game": "Call of Cthulhu",
+      "game": {
+        "name": "Call of Cthulhu",
+        "steam": "399810"
+      },
       "talent": [
         {
           "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
