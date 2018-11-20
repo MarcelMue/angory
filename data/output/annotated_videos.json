@@ -2,6 +2,51 @@
   {
     "annotation": {
       "game": {
+        "name": "God's Basement",
+        "steam": "753930"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
+    "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
+    "description": "So spooks are out the window and now it is all about box stacking. \n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
+    "id": "0XPi4Zkd3as",
+    "kind": "youtube#video",
+    "publishedAt": "2018-11-20T17:50:11.000Z",
+    "titel": "BOX STACKING SIMULATOR | GODS BASEMENT (Part 7)",
+    "statistics": {
+      "commentCount": 80,
+      "dislikeCount": 7,
+      "likeCount": 650,
+      "viewCount": 4576
+    },
+    "youtubeTags": [
+      "Angory",
+      "Tom",
+      "angor",
+      "yogscast",
+      "walkthrough",
+      "playthrough",
+      "funny"
+    ]
+  },
+  {
+    "annotation": {
+      "game": {
         "name": "Fluffy Horde",
         "steam": "777880"
       },
@@ -22,10 +67,10 @@
     "publishedAt": "2018-11-19T18:02:44.000Z",
     "titel": "ATTACK OF THE BUNS! | FLUFFY HORDE",
     "statistics": {
-      "commentCount": 46,
-      "dislikeCount": 3,
-      "likeCount": 519,
-      "viewCount": 4168
+      "commentCount": 90,
+      "dislikeCount": 8,
+      "likeCount": 1476,
+      "viewCount": 21380
     },
     "youtubeTags": [
       "Angory",
@@ -63,10 +108,10 @@
     "publishedAt": "2018-11-18T19:00:01.000Z",
     "titel": "WHAT IS THE PERFECT THANKSGIVING? | QUIZTIME",
     "statistics": {
-      "commentCount": 159,
-      "dislikeCount": 13,
-      "likeCount": 2037,
-      "viewCount": 22458
+      "commentCount": 170,
+      "dislikeCount": 14,
+      "likeCount": 2297,
+      "viewCount": 27416
     },
     "youtubeTags": [
       "Angory",
@@ -108,10 +153,10 @@
     "publishedAt": "2018-11-18T16:00:04.000Z",
     "titel": "We have been here before | Gods Basement 6",
     "statistics": {
-      "commentCount": 211,
-      "dislikeCount": 10,
-      "likeCount": 2454,
-      "viewCount": 19986
+      "commentCount": 235,
+      "dislikeCount": 11,
+      "likeCount": 2790,
+      "viewCount": 23180
     },
     "youtubeTags": [
       "Angory",
@@ -131,10 +176,10 @@
     "publishedAt": "2018-11-17T17:04:49.000Z",
     "titel": "HOW TO ESCAPE FROM SPACE? | TALES OF ESCAPE (Part 2)",
     "statistics": {
-      "commentCount": 99,
+      "commentCount": 103,
       "dislikeCount": 10,
-      "likeCount": 1887,
-      "viewCount": 39052
+      "likeCount": 1978,
+      "viewCount": 41902
     },
     "youtubeTags": [
       "Angory",
@@ -171,8 +216,8 @@
     "statistics": {
       "commentCount": 202,
       "dislikeCount": 15,
-      "likeCount": 2397,
-      "viewCount": 26201
+      "likeCount": 2468,
+      "viewCount": 27332
     },
     "youtubeTags": [
       "Angory",
@@ -207,10 +252,10 @@
     "publishedAt": "2018-11-16T13:24:07.000Z",
     "titel": "Superchill - Build your own Stable - Tracks",
     "statistics": {
-      "commentCount": 2120,
+      "commentCount": 2123,
       "dislikeCount": 8,
-      "likeCount": 896,
-      "viewCount": 16264
+      "likeCount": 927,
+      "viewCount": 16958
     },
     "youtubeTags": [
       "Angory",
@@ -254,8 +299,8 @@
     "statistics": {
       "commentCount": 115,
       "dislikeCount": 24,
-      "likeCount": 2608,
-      "viewCount": 66041
+      "likeCount": 2644,
+      "viewCount": 67758
     },
     "youtubeTags": [
       "Angory",
@@ -292,8 +337,8 @@
     "statistics": {
       "commentCount": 168,
       "dislikeCount": 20,
-      "likeCount": 2292,
-      "viewCount": 41037
+      "likeCount": 2314,
+      "viewCount": 41572
     },
     "youtubeTags": [
       "Angory",
@@ -335,10 +380,10 @@
     "publishedAt": "2018-11-13T16:37:57.000Z",
     "titel": "ACTUAL HAUNTED ROCKING CHAIR | God's Basement (Part 5)",
     "statistics": {
-      "commentCount": 168,
+      "commentCount": 169,
       "dislikeCount": 13,
-      "likeCount": 1983,
-      "viewCount": 30087
+      "likeCount": 2039,
+      "viewCount": 30970
     },
     "youtubeTags": [
       "Angory",
@@ -380,10 +425,10 @@
     "publishedAt": "2018-11-12T17:47:24.000Z",
     "titel": "HOW TO SUMMON A GOD | Call of Cthulhu (FINALE)",
     "statistics": {
-      "commentCount": 424,
+      "commentCount": 425,
       "dislikeCount": 20,
-      "likeCount": 3653,
-      "viewCount": 46722
+      "likeCount": 3694,
+      "viewCount": 47333
     },
     "youtubeTags": [
       "Angory",
@@ -421,10 +466,10 @@
     "publishedAt": "2018-11-11T21:00:01.000Z",
     "titel": "SPOOKY QuizTime",
     "statistics": {
-      "commentCount": 233,
+      "commentCount": 234,
       "dislikeCount": 21,
-      "likeCount": 2944,
-      "viewCount": 49423
+      "likeCount": 2955,
+      "viewCount": 49777
     },
     "youtubeTags": [
       "Angory",
@@ -471,8 +516,8 @@
     "statistics": {
       "commentCount": 154,
       "dislikeCount": 6,
-      "likeCount": 3101,
-      "viewCount": 37028
+      "likeCount": 3124,
+      "viewCount": 37417
     },
     "youtubeTags": [
       "Angory",
@@ -511,8 +556,8 @@
     "statistics": {
       "commentCount": 160,
       "dislikeCount": 36,
-      "likeCount": 2137,
-      "viewCount": 33162
+      "likeCount": 2147,
+      "viewCount": 33371
     },
     "youtubeTags": [
       "Angory",
@@ -556,8 +601,8 @@
     "statistics": {
       "commentCount": 117,
       "dislikeCount": 6,
-      "likeCount": 3133,
-      "viewCount": 36899
+      "likeCount": 3151,
+      "viewCount": 37197
     },
     "youtubeTags": [
       "Angory",
@@ -603,8 +648,8 @@
     "statistics": {
       "commentCount": 134,
       "dislikeCount": 8,
-      "likeCount": 3084,
-      "viewCount": 37772
+      "likeCount": 3105,
+      "viewCount": 38038
     },
     "youtubeTags": [
       "Angory",
@@ -650,8 +695,8 @@
     "statistics": {
       "commentCount": 201,
       "dislikeCount": 8,
-      "likeCount": 5753,
-      "viewCount": 40021
+      "likeCount": 5780,
+      "viewCount": 40278
     },
     "youtubeTags": [
       "Angory",
@@ -701,10 +746,10 @@
     "publishedAt": "2018-11-08T19:07:13.000Z",
     "titel": "GMOD HORROR",
     "statistics": {
-      "commentCount": 273,
-      "dislikeCount": 149,
-      "likeCount": 5203,
-      "viewCount": 97744
+      "commentCount": 278,
+      "dislikeCount": 150,
+      "likeCount": 5231,
+      "viewCount": 98553
     },
     "youtubeTags": [
       "Angory",
@@ -749,8 +794,8 @@
     "statistics": {
       "commentCount": 157,
       "dislikeCount": 10,
-      "likeCount": 3089,
-      "viewCount": 43040
+      "likeCount": 3108,
+      "viewCount": 43321
     },
     "youtubeTags": [
       "Angory",
@@ -794,10 +839,10 @@
     "publishedAt": "2018-11-06T22:30:00.000Z",
     "titel": "STUCK IN GRANNIES HOUSE | Gods Basement (Part 4)",
     "statistics": {
-      "commentCount": 197,
+      "commentCount": 198,
       "dislikeCount": 9,
-      "likeCount": 2609,
-      "viewCount": 37104
+      "likeCount": 2630,
+      "viewCount": 37560
     },
     "youtubeTags": [
       "Angory",
@@ -844,8 +889,8 @@
     "statistics": {
       "commentCount": 150,
       "dislikeCount": 10,
-      "likeCount": 3133,
-      "viewCount": 44450
+      "likeCount": 3148,
+      "viewCount": 44723
     },
     "youtubeTags": [
       "Angory",
@@ -891,8 +936,8 @@
     "statistics": {
       "commentCount": 234,
       "dislikeCount": 7,
-      "likeCount": 3352,
-      "viewCount": 44832
+      "likeCount": 3370,
+      "viewCount": 45038
     },
     "youtubeTags": [
       "Angory",
@@ -938,8 +983,8 @@
     "statistics": {
       "commentCount": 185,
       "dislikeCount": 29,
-      "likeCount": 2709,
-      "viewCount": 41947
+      "likeCount": 2712,
+      "viewCount": 42047
     },
     "youtubeTags": [
       "Angory",
@@ -990,8 +1035,8 @@
     "statistics": {
       "commentCount": 140,
       "dislikeCount": 15,
-      "likeCount": 3274,
-      "viewCount": 46859
+      "likeCount": 3286,
+      "viewCount": 47095
     },
     "youtubeTags": [
       "Angory",
@@ -1037,8 +1082,8 @@
     "statistics": {
       "commentCount": 184,
       "dislikeCount": 16,
-      "likeCount": 3082,
-      "viewCount": 49061
+      "likeCount": 3092,
+      "viewCount": 49291
     },
     "youtubeTags": [
       "Angory",
@@ -1084,8 +1129,8 @@
     "statistics": {
       "commentCount": 129,
       "dislikeCount": 14,
-      "likeCount": 3057,
-      "viewCount": 56283
+      "likeCount": 3065,
+      "viewCount": 56581
     },
     "youtubeTags": [
       "Angory",
@@ -1130,8 +1175,8 @@
     "statistics": {
       "commentCount": 156,
       "dislikeCount": 9,
-      "likeCount": 3535,
-      "viewCount": 57649
+      "likeCount": 3544,
+      "viewCount": 57872
     },
     "youtubeTags": [
       "Angory",
@@ -1174,10 +1219,10 @@
     "publishedAt": "2018-10-31T22:00:02.000Z",
     "titel": "RIDDLE BUN RETURNS! | Gods Basement (Part 3)",
     "statistics": {
-      "commentCount": 177,
+      "commentCount": 180,
       "dislikeCount": 9,
-      "likeCount": 2501,
-      "viewCount": 39765
+      "likeCount": 2525,
+      "viewCount": 40234
     },
     "youtubeTags": [
       "Angory",
@@ -1221,8 +1266,8 @@
     "statistics": {
       "commentCount": 244,
       "dislikeCount": 17,
-      "likeCount": 3348,
-      "viewCount": 55859
+      "likeCount": 3358,
+      "viewCount": 56100
     },
     "youtubeTags": [
       "Angory",
@@ -1268,8 +1313,8 @@
     "statistics": {
       "commentCount": 170,
       "dislikeCount": 15,
-      "likeCount": 3849,
-      "viewCount": 67363
+      "likeCount": 3857,
+      "viewCount": 67591
     },
     "youtubeTags": [
       "Angory",
@@ -1315,9 +1360,9 @@
     "titel": "WE INVESTIGATE THE OCCULT | Call of Cthulhu (Part 1)",
     "statistics": {
       "commentCount": 518,
-      "dislikeCount": 43,
-      "likeCount": 5584,
-      "viewCount": 142386
+      "dislikeCount": 44,
+      "likeCount": 5595,
+      "viewCount": 142851
     },
     "youtubeTags": [
       "Angory",
@@ -1355,7 +1400,7 @@
       "commentCount": 73,
       "dislikeCount": 18,
       "likeCount": 1418,
-      "viewCount": 26279
+      "viewCount": 26291
     },
     "youtubeTags": [
       "Angory",
@@ -1382,8 +1427,8 @@
     "statistics": {
       "commentCount": 112,
       "dislikeCount": 7,
-      "likeCount": 2088,
-      "viewCount": 36011
+      "likeCount": 2092,
+      "viewCount": 36112
     },
     "youtubeTags": [
       "Angory",
@@ -1408,8 +1453,8 @@
     "statistics": {
       "commentCount": 242,
       "dislikeCount": 11,
-      "likeCount": 2828,
-      "viewCount": 45974
+      "likeCount": 2846,
+      "viewCount": 46367
     },
     "youtubeTags": [
       "Angory",
@@ -1432,8 +1477,8 @@
     "statistics": {
       "commentCount": 196,
       "dislikeCount": 64,
-      "likeCount": 2355,
-      "viewCount": 38598
+      "likeCount": 2356,
+      "viewCount": 38651
     },
     "youtubeTags": [
       "Angory",
@@ -1459,8 +1504,8 @@
     "statistics": {
       "commentCount": 148,
       "dislikeCount": 11,
-      "likeCount": 2287,
-      "viewCount": 39554
+      "likeCount": 2289,
+      "viewCount": 39598
     },
     "youtubeTags": [
       "Angory",
@@ -1484,10 +1529,10 @@
     "publishedAt": "2018-10-24T17:39:13.000Z",
     "titel": "Who was more AFRAID? | Gods Basement (Part 1)",
     "statistics": {
-      "commentCount": 254,
+      "commentCount": 255,
       "dislikeCount": 10,
-      "likeCount": 4505,
-      "viewCount": 61441
+      "likeCount": 4532,
+      "viewCount": 61934
     },
     "youtubeTags": [
       "Angory",
@@ -1511,7 +1556,7 @@
       "commentCount": 179,
       "dislikeCount": 15,
       "likeCount": 1867,
-      "viewCount": 25006
+      "viewCount": 25021
     },
     "youtubeTags": [
       "Angory",
@@ -1535,8 +1580,8 @@
     "statistics": {
       "commentCount": 146,
       "dislikeCount": 3,
-      "likeCount": 2448,
-      "viewCount": 26781
+      "likeCount": 2449,
+      "viewCount": 26802
     },
     "youtubeTags": [
       "Angory",
@@ -1560,10 +1605,10 @@
     "publishedAt": "2018-10-21T16:58:47.000Z",
     "titel": "What SCARY MOVIE should you watch for HALLOWEEN l QUIZ TIME",
     "statistics": {
-      "commentCount": 183,
+      "commentCount": 184,
       "dislikeCount": 10,
-      "likeCount": 2157,
-      "viewCount": 35017
+      "likeCount": 2160,
+      "viewCount": 35078
     },
     "youtubeTags": [
       "Angory",
@@ -1591,8 +1636,8 @@
     "statistics": {
       "commentCount": 185,
       "dislikeCount": 12,
-      "likeCount": 2158,
-      "viewCount": 30001
+      "likeCount": 2157,
+      "viewCount": 30020
     },
     "youtubeTags": [
       "Angory",
@@ -1619,7 +1664,7 @@
       "commentCount": 98,
       "dislikeCount": 14,
       "likeCount": 1802,
-      "viewCount": 33525
+      "viewCount": 33557
     },
     "youtubeTags": [
       "Angory",
@@ -1645,8 +1690,8 @@
     "statistics": {
       "commentCount": 118,
       "dislikeCount": 20,
-      "likeCount": 2207,
-      "viewCount": 33452
+      "likeCount": 2208,
+      "viewCount": 33487
     },
     "youtubeTags": [
       "Angory",
@@ -1676,8 +1721,8 @@
     "statistics": {
       "commentCount": 358,
       "dislikeCount": 30,
-      "likeCount": 3919,
-      "viewCount": 58065
+      "likeCount": 3927,
+      "viewCount": 58227
     },
     "youtubeTags": [
       "Angory",
@@ -1707,7 +1752,7 @@
       "commentCount": 134,
       "dislikeCount": 7,
       "likeCount": 2620,
-      "viewCount": 37570
+      "viewCount": 37584
     },
     "youtubeTags": [
       "Angory",
@@ -1736,8 +1781,8 @@
     "statistics": {
       "commentCount": 381,
       "dislikeCount": 53,
-      "likeCount": 3281,
-      "viewCount": 58131
+      "likeCount": 3282,
+      "viewCount": 58197
     },
     "youtubeTags": [
       "Angory",
@@ -1767,8 +1812,8 @@
     "statistics": {
       "commentCount": 169,
       "dislikeCount": 14,
-      "likeCount": 2574,
-      "viewCount": 41123
+      "likeCount": 2577,
+      "viewCount": 41194
     },
     "youtubeTags": [
       "Angory",
@@ -1791,7 +1836,7 @@
       "commentCount": 75,
       "dislikeCount": 9,
       "likeCount": 1859,
-      "viewCount": 27072
+      "viewCount": 27082
     },
     "youtubeTags": [
       "Angory",
@@ -1814,7 +1859,7 @@
       "commentCount": 217,
       "dislikeCount": 22,
       "likeCount": 4083,
-      "viewCount": 60823
+      "viewCount": 60881
     },
     "youtubeTags": [
       "Angory",
@@ -1840,8 +1885,8 @@
     "statistics": {
       "commentCount": 119,
       "dislikeCount": 12,
-      "likeCount": 843,
-      "viewCount": 21235
+      "likeCount": 844,
+      "viewCount": 21266
     },
     "youtubeTags": [
       "Angory",
@@ -1870,8 +1915,8 @@
     "statistics": {
       "commentCount": 136,
       "dislikeCount": 6,
-      "likeCount": 2484,
-      "viewCount": 36828
+      "likeCount": 2485,
+      "viewCount": 36833
     },
     "youtubeTags": [
       "Angory",
@@ -1896,7 +1941,7 @@
       "commentCount": 115,
       "dislikeCount": 19,
       "likeCount": 1759,
-      "viewCount": 27003
+      "viewCount": 27009
     },
     "youtubeTags": [
       "Angory",
@@ -1923,8 +1968,8 @@
     "statistics": {
       "commentCount": 71,
       "dislikeCount": 3,
-      "likeCount": 1610,
-      "viewCount": 23281
+      "likeCount": 1611,
+      "viewCount": 23297
     },
     "youtubeTags": [
       "Angory",
@@ -1951,8 +1996,8 @@
     "statistics": {
       "commentCount": 150,
       "dislikeCount": 25,
-      "likeCount": 2702,
-      "viewCount": 44085
+      "likeCount": 2703,
+      "viewCount": 44127
     },
     "youtubeTags": [
       "Angory",
@@ -1986,7 +2031,7 @@
       "commentCount": 273,
       "dislikeCount": 45,
       "likeCount": 3006,
-      "viewCount": 59800
+      "viewCount": 59840
     },
     "youtubeTags": [
       "Angory",
@@ -2017,8 +2062,8 @@
     "statistics": {
       "commentCount": 60,
       "dislikeCount": 8,
-      "likeCount": 1857,
-      "viewCount": 27481
+      "likeCount": 1858,
+      "viewCount": 27503
     },
     "youtubeTags": [
       "Angory",
@@ -2044,8 +2089,8 @@
     "statistics": {
       "commentCount": 330,
       "dislikeCount": 13,
-      "likeCount": 1924,
-      "viewCount": 29214
+      "likeCount": 1925,
+      "viewCount": 29262
     },
     "youtubeTags": [
       "Angory",
@@ -2069,7 +2114,7 @@
       "commentCount": 69,
       "dislikeCount": 10,
       "likeCount": 1921,
-      "viewCount": 26045
+      "viewCount": 26055
     },
     "youtubeTags": [
       "Angory",
@@ -2097,8 +2142,8 @@
     "statistics": {
       "commentCount": 81,
       "dislikeCount": 11,
-      "likeCount": 2085,
-      "viewCount": 32809
+      "likeCount": 2086,
+      "viewCount": 32835
     },
     "youtubeTags": [
       "Angory",
@@ -2124,7 +2169,7 @@
       "commentCount": 125,
       "dislikeCount": 9,
       "likeCount": 2709,
-      "viewCount": 38224
+      "viewCount": 38229
     },
     "youtubeTags": [
       "Angory",
@@ -2155,8 +2200,8 @@
     "statistics": {
       "commentCount": 193,
       "dislikeCount": 22,
-      "likeCount": 3440,
-      "viewCount": 52657
+      "likeCount": 3442,
+      "viewCount": 52705
     },
     "youtubeTags": [
       "Angory",
@@ -2188,7 +2233,7 @@
       "commentCount": 119,
       "dislikeCount": 7,
       "likeCount": 2615,
-      "viewCount": 37903
+      "viewCount": 37907
     },
     "youtubeTags": [
       "Angory",
@@ -2216,8 +2261,8 @@
     "statistics": {
       "commentCount": 183,
       "dislikeCount": 18,
-      "likeCount": 3208,
-      "viewCount": 50397
+      "likeCount": 3209,
+      "viewCount": 50411
     },
     "youtubeTags": [
       "Angory",
@@ -2246,8 +2291,8 @@
     "statistics": {
       "commentCount": 182,
       "dislikeCount": 46,
-      "likeCount": 2903,
-      "viewCount": 73795
+      "likeCount": 2904,
+      "viewCount": 73829
     },
     "youtubeTags": [
       "Angory",
@@ -2274,8 +2319,8 @@
     "statistics": {
       "commentCount": 180,
       "dislikeCount": 6,
-      "likeCount": 3252,
-      "viewCount": 36024
+      "likeCount": 3255,
+      "viewCount": 36054
     },
     "youtubeTags": [
       "Angory",
@@ -2300,8 +2345,8 @@
     "statistics": {
       "commentCount": 119,
       "dislikeCount": 11,
-      "likeCount": 2460,
-      "viewCount": 35995
+      "likeCount": 2461,
+      "viewCount": 36026
     },
     "youtubeTags": [
       "Angory",
@@ -2326,10 +2371,10 @@
     "publishedAt": "2018-09-24T17:06:30.000Z",
     "titel": "TRAPPED IN A ROOM | Cube Escape Paradox Chapter 1 (Part 1)",
     "statistics": {
-      "commentCount": 141,
+      "commentCount": 142,
       "dislikeCount": 14,
-      "likeCount": 3116,
-      "viewCount": 54044
+      "likeCount": 3119,
+      "viewCount": 54072
     },
     "youtubeTags": [
       "Angory",
@@ -2354,8 +2399,8 @@
     "statistics": {
       "commentCount": 234,
       "dislikeCount": 21,
-      "likeCount": 2823,
-      "viewCount": 47218
+      "likeCount": 2824,
+      "viewCount": 47312
     },
     "youtubeTags": [
       "Angory",
@@ -2381,8 +2426,8 @@
     "statistics": {
       "commentCount": 274,
       "dislikeCount": 17,
-      "likeCount": 3853,
-      "viewCount": 48684
+      "likeCount": 3855,
+      "viewCount": 48723
     },
     "youtubeTags": [
       "Angory",
@@ -2404,8 +2449,8 @@
     "statistics": {
       "commentCount": 196,
       "dislikeCount": 23,
-      "likeCount": 1761,
-      "viewCount": 38742
+      "likeCount": 1762,
+      "viewCount": 38778
     },
     "youtubeTags": [
       "Angory",
@@ -2434,8 +2479,8 @@
     "statistics": {
       "commentCount": 73,
       "dislikeCount": 9,
-      "likeCount": 949,
-      "viewCount": 22314
+      "likeCount": 950,
+      "viewCount": 22324
     },
     "youtubeTags": [
       "Angory",
@@ -2461,7 +2506,7 @@
       "commentCount": 149,
       "dislikeCount": 74,
       "likeCount": 1582,
-      "viewCount": 34264
+      "viewCount": 34272
     },
     "youtubeTags": [
       "Angory",
@@ -2491,8 +2536,8 @@
     "statistics": {
       "commentCount": 211,
       "dislikeCount": 24,
-      "likeCount": 2209,
-      "viewCount": 54195
+      "likeCount": 2210,
+      "viewCount": 54215
     },
     "youtubeTags": [
       "Angory",
@@ -2522,7 +2567,7 @@
       "commentCount": 50,
       "dislikeCount": 7,
       "likeCount": 937,
-      "viewCount": 24291
+      "viewCount": 24296
     },
     "youtubeTags": [
       "Angory",
@@ -2548,7 +2593,7 @@
       "commentCount": 60,
       "dislikeCount": 5,
       "likeCount": 1165,
-      "viewCount": 33019
+      "viewCount": 33024
     },
     "youtubeTags": [
       "Angory",
@@ -2572,8 +2617,8 @@
     "statistics": {
       "commentCount": 128,
       "dislikeCount": 24,
-      "likeCount": 2540,
-      "viewCount": 59858
+      "likeCount": 2541,
+      "viewCount": 59870
     },
     "youtubeTags": [
       "Angory",
@@ -2597,7 +2642,7 @@
       "commentCount": 162,
       "dislikeCount": 18,
       "likeCount": 2038,
-      "viewCount": 45889
+      "viewCount": 45894
     },
     "youtubeTags": [
       "Angory",
@@ -2624,8 +2669,8 @@
     "statistics": {
       "commentCount": 435,
       "dislikeCount": 51,
-      "likeCount": 3811,
-      "viewCount": 53305
+      "likeCount": 3812,
+      "viewCount": 53315
     },
     "youtubeTags": [
       "Angory",
@@ -2652,7 +2697,7 @@
       "commentCount": 75,
       "dislikeCount": 9,
       "likeCount": 1493,
-      "viewCount": 38086
+      "viewCount": 38094
     },
     "youtubeTags": [
       "Angory",
@@ -2679,8 +2724,8 @@
     "statistics": {
       "commentCount": 122,
       "dislikeCount": 4,
-      "likeCount": 1851,
-      "viewCount": 30396
+      "likeCount": 1852,
+      "viewCount": 30421
     },
     "youtubeTags": [
       "Angory",
@@ -2713,7 +2758,7 @@
       "commentCount": 263,
       "dislikeCount": 35,
       "likeCount": 3415,
-      "viewCount": 65375
+      "viewCount": 65398
     },
     "youtubeTags": [
       "Angory",
@@ -2743,7 +2788,7 @@
       "commentCount": 196,
       "dislikeCount": 8,
       "likeCount": 1607,
-      "viewCount": 27351
+      "viewCount": 27363
     },
     "youtubeTags": [
       "Angory",
@@ -2771,8 +2816,8 @@
     "statistics": {
       "commentCount": 337,
       "dislikeCount": 53,
-      "likeCount": 3831,
-      "viewCount": 89668
+      "likeCount": 3832,
+      "viewCount": 89701
     },
     "youtubeTags": [
       "Angory",
@@ -2802,8 +2847,8 @@
     "statistics": {
       "commentCount": 89,
       "dislikeCount": 6,
-      "likeCount": 1428,
-      "viewCount": 32595
+      "likeCount": 1429,
+      "viewCount": 32619
     },
     "youtubeTags": [
       "Angory",
@@ -2834,7 +2879,7 @@
       "commentCount": 57,
       "dislikeCount": 12,
       "likeCount": 1374,
-      "viewCount": 34565
+      "viewCount": 34575
     },
     "youtubeTags": [
       "Angory",
@@ -2863,7 +2908,7 @@
       "commentCount": 547,
       "dislikeCount": 55,
       "likeCount": 6468,
-      "viewCount": 141743
+      "viewCount": 141759
     },
     "youtubeTags": [
       "Angory",
@@ -2891,7 +2936,7 @@
       "commentCount": 194,
       "dislikeCount": 37,
       "likeCount": 2930,
-      "viewCount": 58791
+      "viewCount": 58810
     },
     "youtubeTags": [
       "Angory",
@@ -2917,7 +2962,7 @@
       "commentCount": 196,
       "dislikeCount": 18,
       "likeCount": 3029,
-      "viewCount": 51590
+      "viewCount": 51619
     },
     "youtubeTags": [
       "Angory",
@@ -2941,7 +2986,7 @@
       "commentCount": 147,
       "dislikeCount": 7,
       "likeCount": 2399,
-      "viewCount": 39950
+      "viewCount": 39961
     },
     "youtubeTags": [
       "Angory",
@@ -2962,10 +3007,10 @@
     "publishedAt": "2018-08-31T19:06:00.000Z",
     "titel": "KILL THE SPAWN OF SATAN | Witch Hunt (FINALE)",
     "statistics": {
-      "commentCount": 383,
-      "dislikeCount": 13,
-      "likeCount": 4335,
-      "viewCount": 50125
+      "commentCount": 384,
+      "dislikeCount": 14,
+      "likeCount": 4336,
+      "viewCount": 50162
     },
     "youtubeTags": [
       "Angory",
@@ -2989,8 +3034,8 @@
     "statistics": {
       "commentCount": 119,
       "dislikeCount": 4,
-      "likeCount": 1703,
-      "viewCount": 34775
+      "likeCount": 1704,
+      "viewCount": 34797
     },
     "youtubeTags": [
       "Angory",
@@ -3021,7 +3066,7 @@
       "commentCount": 144,
       "dislikeCount": 12,
       "likeCount": 2044,
-      "viewCount": 53623
+      "viewCount": 53629
     },
     "youtubeTags": [
       "Angory",
@@ -3046,7 +3091,7 @@
       "commentCount": 212,
       "dislikeCount": 24,
       "likeCount": 2654,
-      "viewCount": 55395
+      "viewCount": 55418
     },
     "youtubeTags": [
       "Angory",
@@ -3075,8 +3120,8 @@
     "statistics": {
       "commentCount": 794,
       "dislikeCount": 7,
-      "likeCount": 3249,
-      "viewCount": 47241
+      "likeCount": 3250,
+      "viewCount": 47281
     },
     "youtubeTags": [
       "Angory",
@@ -3105,8 +3150,8 @@
     "statistics": {
       "commentCount": 317,
       "dislikeCount": 39,
-      "likeCount": 3536,
-      "viewCount": 68052
+      "likeCount": 3537,
+      "viewCount": 68090
     },
     "youtubeTags": [
       "Angory",
@@ -3131,7 +3176,7 @@
       "commentCount": 92,
       "dislikeCount": 15,
       "likeCount": 1602,
-      "viewCount": 41400
+      "viewCount": 41410
     },
     "youtubeTags": [
       "Angory",
@@ -3162,7 +3207,7 @@
       "commentCount": 99,
       "dislikeCount": 6,
       "likeCount": 2016,
-      "viewCount": 37013
+      "viewCount": 37022
     },
     "youtubeTags": [
       "Angory",
@@ -3191,8 +3236,8 @@
     "statistics": {
       "commentCount": 253,
       "dislikeCount": 19,
-      "likeCount": 3249,
-      "viewCount": 48133
+      "likeCount": 3250,
+      "viewCount": 48165
     },
     "youtubeTags": [
       "Angory",
@@ -3222,8 +3267,8 @@
     "statistics": {
       "commentCount": 249,
       "dislikeCount": 14,
-      "likeCount": 1852,
-      "viewCount": 53701
+      "likeCount": 1853,
+      "viewCount": 53725
     },
     "youtubeTags": [
       "Angory",
@@ -3254,7 +3299,7 @@
       "commentCount": 204,
       "dislikeCount": 26,
       "likeCount": 3036,
-      "viewCount": 53488
+      "viewCount": 53513
     },
     "youtubeTags": [
       "Angory",
@@ -3285,8 +3330,8 @@
     "statistics": {
       "commentCount": 203,
       "dislikeCount": 23,
-      "likeCount": 3155,
-      "viewCount": 57950
+      "likeCount": 3157,
+      "viewCount": 57990
     },
     "youtubeTags": [
       "Angory",
@@ -3311,8 +3356,8 @@
     "statistics": {
       "commentCount": 191,
       "dislikeCount": 16,
-      "likeCount": 2383,
-      "viewCount": 63482
+      "likeCount": 2384,
+      "viewCount": 63513
     },
     "youtubeTags": [
       "Angory",
@@ -3342,8 +3387,8 @@
     "statistics": {
       "commentCount": 129,
       "dislikeCount": 6,
-      "likeCount": 1927,
-      "viewCount": 44903
+      "likeCount": 1928,
+      "viewCount": 44912
     },
     "youtubeTags": [
       "Angory",
@@ -3372,7 +3417,7 @@
       "commentCount": 348,
       "dislikeCount": 19,
       "likeCount": 4135,
-      "viewCount": 67726
+      "viewCount": 67757
     },
     "youtubeTags": [
       "Angory",
@@ -3404,7 +3449,7 @@
       "commentCount": 87,
       "dislikeCount": 11,
       "likeCount": 1926,
-      "viewCount": 40258
+      "viewCount": 40265
     },
     "youtubeTags": [
       "Angory",
@@ -3431,8 +3476,8 @@
     "statistics": {
       "commentCount": 160,
       "dislikeCount": 9,
-      "likeCount": 2785,
-      "viewCount": 47940
+      "likeCount": 2787,
+      "viewCount": 47965
     },
     "youtubeTags": [
       "Angory",
@@ -3462,7 +3507,7 @@
       "commentCount": 87,
       "dislikeCount": 13,
       "likeCount": 1895,
-      "viewCount": 43124
+      "viewCount": 43128
     },
     "youtubeTags": [
       "Angory",
@@ -3488,9 +3533,9 @@
     "titel": "What's your IQ? | TEST TIME",
     "statistics": {
       "commentCount": 335,
-      "dislikeCount": 24,
-      "likeCount": 3903,
-      "viewCount": 74232
+      "dislikeCount": 25,
+      "likeCount": 3904,
+      "viewCount": 74251
     },
     "youtubeTags": [
       "Angory",
@@ -3519,7 +3564,7 @@
       "commentCount": 142,
       "dislikeCount": 11,
       "likeCount": 1448,
-      "viewCount": 35098
+      "viewCount": 35103
     },
     "youtubeTags": [
       "Angory",
@@ -3553,7 +3598,7 @@
       "commentCount": 85,
       "dislikeCount": 17,
       "likeCount": 2122,
-      "viewCount": 52007
+      "viewCount": 52012
     },
     "youtubeTags": [
       "Angory",
@@ -3580,8 +3625,8 @@
     "statistics": {
       "commentCount": 174,
       "dislikeCount": 9,
-      "likeCount": 2538,
-      "viewCount": 50399
+      "likeCount": 2539,
+      "viewCount": 50429
     },
     "youtubeTags": [
       "Angory",
@@ -3611,7 +3656,7 @@
       "commentCount": 209,
       "dislikeCount": 18,
       "likeCount": 3055,
-      "viewCount": 51272
+      "viewCount": 51279
     },
     "youtubeTags": [
       "Angory",
@@ -3639,7 +3684,7 @@
     "statistics": {
       "commentCount": 166,
       "dislikeCount": 18,
-      "likeCount": 2665,
+      "likeCount": 2666,
       "viewCount": 56496
     },
     "youtubeTags": [
@@ -3668,7 +3713,7 @@
       "commentCount": 232,
       "dislikeCount": 13,
       "likeCount": 3837,
-      "viewCount": 49765
+      "viewCount": 49775
     },
     "youtubeTags": [
       "Angory",
@@ -3698,7 +3743,7 @@
       "commentCount": 267,
       "dislikeCount": 23,
       "likeCount": 4503,
-      "viewCount": 57528
+      "viewCount": 57564
     },
     "youtubeTags": [
       "Angory",
@@ -3725,7 +3770,7 @@
       "commentCount": 82,
       "dislikeCount": 6,
       "likeCount": 1403,
-      "viewCount": 32959
+      "viewCount": 32962
     },
     "youtubeTags": [
       "Angory",
@@ -3759,7 +3804,7 @@
       "commentCount": 275,
       "dislikeCount": 28,
       "likeCount": 4158,
-      "viewCount": 75542
+      "viewCount": 75567
     },
     "youtubeTags": [
       "Angory",
@@ -3787,8 +3832,8 @@
     "statistics": {
       "commentCount": 238,
       "dislikeCount": 9,
-      "likeCount": 4311,
-      "viewCount": 59198
+      "likeCount": 4312,
+      "viewCount": 59229
     },
     "youtubeTags": [
       "Angory",
@@ -3818,7 +3863,7 @@
       "commentCount": 131,
       "dislikeCount": 28,
       "likeCount": 2640,
-      "viewCount": 52552
+      "viewCount": 52558
     },
     "youtubeTags": [
       "Angory",
@@ -3844,7 +3889,7 @@
       "commentCount": 387,
       "dislikeCount": 39,
       "likeCount": 4480,
-      "viewCount": 100840
+      "viewCount": 100846
     },
     "youtubeTags": [
       "Angory",
@@ -3873,7 +3918,7 @@
       "commentCount": 116,
       "dislikeCount": 8,
       "likeCount": 1385,
-      "viewCount": 30377
+      "viewCount": 30382
     },
     "youtubeTags": [
       "Angory",
@@ -3906,8 +3951,8 @@
     "statistics": {
       "commentCount": 245,
       "dislikeCount": 28,
-      "likeCount": 3260,
-      "viewCount": 56277
+      "likeCount": 3262,
+      "viewCount": 56316
     },
     "youtubeTags": [
       "Angory",
@@ -3934,8 +3979,8 @@
     "statistics": {
       "commentCount": 142,
       "dislikeCount": 5,
-      "likeCount": 2746,
-      "viewCount": 50869
+      "likeCount": 2747,
+      "viewCount": 50900
     },
     "youtubeTags": [
       "Angory",
@@ -3965,7 +4010,7 @@
       "commentCount": 95,
       "dislikeCount": 9,
       "likeCount": 1609,
-      "viewCount": 30100
+      "viewCount": 30112
     },
     "youtubeTags": [
       "Angory",
@@ -3998,8 +4043,8 @@
     "statistics": {
       "commentCount": 122,
       "dislikeCount": 8,
-      "likeCount": 2360,
-      "viewCount": 53741
+      "likeCount": 2361,
+      "viewCount": 53758
     },
     "youtubeTags": [
       "Angory",
@@ -4027,8 +4072,8 @@
     "statistics": {
       "commentCount": 118,
       "dislikeCount": 25,
-      "likeCount": 1612,
-      "viewCount": 38923
+      "likeCount": 1613,
+      "viewCount": 38946
     },
     "youtubeTags": [
       "Angory",
@@ -4057,8 +4102,8 @@
     "statistics": {
       "commentCount": 153,
       "dislikeCount": 10,
-      "likeCount": 2627,
-      "viewCount": 57266
+      "likeCount": 2629,
+      "viewCount": 57318
     },
     "youtubeTags": [
       "Angory",
@@ -4115,8 +4160,8 @@
     "statistics": {
       "commentCount": 164,
       "dislikeCount": 17,
-      "likeCount": 2935,
-      "viewCount": 52576
+      "likeCount": 2937,
+      "viewCount": 52612
     },
     "youtubeTags": [
       "Angory",
@@ -4143,7 +4188,7 @@
       "commentCount": 83,
       "dislikeCount": 5,
       "likeCount": 1403,
-      "viewCount": 29452
+      "viewCount": 29458
     },
     "youtubeTags": [
       "Angory",
@@ -4176,8 +4221,8 @@
     "statistics": {
       "commentCount": 294,
       "dislikeCount": 14,
-      "likeCount": 4301,
-      "viewCount": 67018
+      "likeCount": 4302,
+      "viewCount": 67072
     },
     "youtubeTags": [
       "Angory",
@@ -4232,8 +4277,8 @@
     "statistics": {
       "commentCount": 184,
       "dislikeCount": 13,
-      "likeCount": 2253,
-      "viewCount": 48269
+      "likeCount": 2254,
+      "viewCount": 48282
     },
     "youtubeTags": [
       "Angory",
@@ -4258,7 +4303,7 @@
       "commentCount": 87,
       "dislikeCount": 9,
       "likeCount": 1417,
-      "viewCount": 34101
+      "viewCount": 34106
     },
     "youtubeTags": [
       "Angory",
@@ -4291,8 +4336,8 @@
     "statistics": {
       "commentCount": 303,
       "dislikeCount": 20,
-      "likeCount": 3752,
-      "viewCount": 83687
+      "likeCount": 3753,
+      "viewCount": 83766
     },
     "youtubeTags": [
       "Angory",
@@ -4319,8 +4364,8 @@
     "statistics": {
       "commentCount": 265,
       "dislikeCount": 15,
-      "likeCount": 3118,
-      "viewCount": 54225
+      "likeCount": 3119,
+      "viewCount": 54286
     },
     "youtubeTags": [
       "Angory",
@@ -4371,7 +4416,7 @@
       "commentCount": 73,
       "dislikeCount": 9,
       "likeCount": 1547,
-      "viewCount": 28231
+      "viewCount": 28238
     },
     "youtubeTags": [
       "Angory",
@@ -4405,7 +4450,7 @@
       "commentCount": 218,
       "dislikeCount": 24,
       "likeCount": 3270,
-      "viewCount": 46189
+      "viewCount": 46227
     },
     "youtubeTags": [
       "Angory",
@@ -4459,7 +4504,7 @@
       "commentCount": 59,
       "dislikeCount": 12,
       "likeCount": 1470,
-      "viewCount": 30858
+      "viewCount": 30868
     },
     "youtubeTags": [
       "Angory",
@@ -4492,8 +4537,8 @@
     "statistics": {
       "commentCount": 211,
       "dislikeCount": 16,
-      "likeCount": 1487,
-      "viewCount": 36640
+      "likeCount": 1488,
+      "viewCount": 36668
     },
     "youtubeTags": [
       "Angory",
@@ -4520,8 +4565,8 @@
     "statistics": {
       "commentCount": 349,
       "dislikeCount": 31,
-      "likeCount": 3323,
-      "viewCount": 69705
+      "likeCount": 3324,
+      "viewCount": 69798
     },
     "youtubeTags": [
       "Angory",
@@ -4547,7 +4592,7 @@
       "commentCount": 101,
       "dislikeCount": 5,
       "likeCount": 1523,
-      "viewCount": 35367
+      "viewCount": 35378
     },
     "youtubeTags": [
       "Angory",
@@ -4581,7 +4626,7 @@
       "commentCount": 75,
       "dislikeCount": 8,
       "likeCount": 1432,
-      "viewCount": 34818
+      "viewCount": 34827
     },
     "youtubeTags": [
       "Angory",
@@ -4614,8 +4659,8 @@
     "statistics": {
       "commentCount": 155,
       "dislikeCount": 18,
-      "likeCount": 1711,
-      "viewCount": 50671
+      "likeCount": 1712,
+      "viewCount": 50713
     },
     "youtubeTags": [
       "Angory",
@@ -4643,7 +4688,7 @@
       "commentCount": 144,
       "dislikeCount": 21,
       "likeCount": 1810,
-      "viewCount": 43965
+      "viewCount": 43980
     },
     "youtubeTags": [
       "Angory",
@@ -4673,7 +4718,7 @@
       "commentCount": 74,
       "dislikeCount": 6,
       "likeCount": 1478,
-      "viewCount": 35521
+      "viewCount": 35535
     },
     "youtubeTags": [
       "Angory",
@@ -4706,8 +4751,8 @@
     "statistics": {
       "commentCount": 150,
       "dislikeCount": 15,
-      "likeCount": 1824,
-      "viewCount": 44908
+      "likeCount": 1825,
+      "viewCount": 44941
     },
     "youtubeTags": [
       "Angory",
@@ -4734,8 +4779,8 @@
     "statistics": {
       "commentCount": 347,
       "dislikeCount": 26,
-      "likeCount": 3601,
-      "viewCount": 68893
+      "likeCount": 3603,
+      "viewCount": 68975
     },
     "youtubeTags": [
       "Angory",
@@ -4761,8 +4806,8 @@
     "statistics": {
       "commentCount": 125,
       "dislikeCount": 13,
-      "likeCount": 2340,
-      "viewCount": 58047
+      "likeCount": 2341,
+      "viewCount": 58110
     },
     "youtubeTags": [
       "Angory",
@@ -4791,7 +4836,7 @@
       "commentCount": 54,
       "dislikeCount": 9,
       "likeCount": 1694,
-      "viewCount": 38974
+      "viewCount": 38991
     },
     "youtubeTags": [
       "Angory",
@@ -4825,7 +4870,7 @@
       "commentCount": 193,
       "dislikeCount": 58,
       "likeCount": 2922,
-      "viewCount": 66380
+      "viewCount": 66429
     },
     "youtubeTags": [
       "Angory",
@@ -4852,7 +4897,7 @@
       "commentCount": 235,
       "dislikeCount": 29,
       "likeCount": 2900,
-      "viewCount": 75754
+      "viewCount": 75786
     },
     "youtubeTags": [
       "Angory",
@@ -4914,8 +4959,8 @@
     "statistics": {
       "commentCount": 665,
       "dislikeCount": 34,
-      "likeCount": 3736,
-      "viewCount": 74623
+      "likeCount": 3739,
+      "viewCount": 74710
     },
     "youtubeTags": [
       "Angory",
@@ -4942,7 +4987,7 @@
       "commentCount": 106,
       "dislikeCount": 4,
       "likeCount": 1545,
-      "viewCount": 38342
+      "viewCount": 38356
     },
     "youtubeTags": [
       "Angory",
@@ -4971,7 +5016,7 @@
       "commentCount": 69,
       "dislikeCount": 37,
       "likeCount": 1325,
-      "viewCount": 30607
+      "viewCount": 30609
     },
     "youtubeTags": [
       "Angory",
@@ -4997,7 +5042,7 @@
       "commentCount": 132,
       "dislikeCount": 9,
       "likeCount": 2083,
-      "viewCount": 49442
+      "viewCount": 49469
     },
     "youtubeTags": [
       "Angory",
@@ -5061,7 +5106,7 @@
       "commentCount": 119,
       "dislikeCount": 11,
       "likeCount": 2426,
-      "viewCount": 40681
+      "viewCount": 40691
     },
     "youtubeTags": [
       "Angory",
@@ -5090,7 +5135,7 @@
       "commentCount": 163,
       "dislikeCount": 7,
       "likeCount": 2480,
-      "viewCount": 34104
+      "viewCount": 34114
     },
     "youtubeTags": [
       "Angory",
@@ -5118,7 +5163,7 @@
       "commentCount": 354,
       "dislikeCount": 35,
       "likeCount": 4192,
-      "viewCount": 89310
+      "viewCount": 89345
     },
     "youtubeTags": [
       "Angory",
@@ -5142,8 +5187,8 @@
     "statistics": {
       "commentCount": 105,
       "dislikeCount": 12,
-      "likeCount": 1771,
-      "viewCount": 54282
+      "likeCount": 1772,
+      "viewCount": 54297
     },
     "youtubeTags": [
       "Angory",
@@ -5172,7 +5217,7 @@
       "commentCount": 144,
       "dislikeCount": 7,
       "likeCount": 2178,
-      "viewCount": 39258
+      "viewCount": 39262
     },
     "youtubeTags": [
       "Angory",
@@ -5199,7 +5244,7 @@
       "commentCount": 219,
       "dislikeCount": 7,
       "likeCount": 2649,
-      "viewCount": 70045
+      "viewCount": 70079
     },
     "youtubeTags": [
       "Angory",
@@ -5227,8 +5272,8 @@
     "statistics": {
       "commentCount": 157,
       "dislikeCount": 8,
-      "likeCount": 2153,
-      "viewCount": 48553
+      "likeCount": 2154,
+      "viewCount": 48559
     },
     "youtubeTags": [
       "Angory",
@@ -5257,8 +5302,8 @@
     "statistics": {
       "commentCount": 129,
       "dislikeCount": 21,
-      "likeCount": 2229,
-      "viewCount": 44429
+      "likeCount": 2230,
+      "viewCount": 44445
     },
     "youtubeTags": [
       "Angory",
@@ -5284,7 +5329,7 @@
       "commentCount": 221,
       "dislikeCount": 16,
       "likeCount": 2913,
-      "viewCount": 61655
+      "viewCount": 61672
     },
     "youtubeTags": [
       "Angory",
@@ -5312,8 +5357,8 @@
     "statistics": {
       "commentCount": 174,
       "dislikeCount": 34,
-      "likeCount": 3637,
-      "viewCount": 74742
+      "likeCount": 3639,
+      "viewCount": 74800
     },
     "youtubeTags": [
       "Angory",
@@ -5398,7 +5443,7 @@
       "commentCount": 212,
       "dislikeCount": 17,
       "likeCount": 1594,
-      "viewCount": 41028
+      "viewCount": 41029
     },
     "youtubeTags": [
       "Angory",
@@ -5428,7 +5473,7 @@
       "commentCount": 179,
       "dislikeCount": 36,
       "likeCount": 3609,
-      "viewCount": 73871
+      "viewCount": 73891
     },
     "youtubeTags": [
       "Angory",
@@ -5459,7 +5504,7 @@
       "commentCount": 194,
       "dislikeCount": 11,
       "likeCount": 2817,
-      "viewCount": 46588
+      "viewCount": 46593
     },
     "youtubeTags": [
       "Angory",
@@ -5485,8 +5530,8 @@
     "statistics": {
       "commentCount": 221,
       "dislikeCount": 5,
-      "likeCount": 2537,
-      "viewCount": 31004
+      "likeCount": 2538,
+      "viewCount": 31008
     },
     "youtubeTags": [
       "Angory",
@@ -5515,8 +5560,8 @@
     "statistics": {
       "commentCount": 231,
       "dislikeCount": 14,
-      "likeCount": 3394,
-      "viewCount": 61826
+      "likeCount": 3396,
+      "viewCount": 61935
     },
     "youtubeTags": [
       "Angory",
@@ -5544,7 +5589,7 @@
       "commentCount": 227,
       "dislikeCount": 11,
       "likeCount": 2892,
-      "viewCount": 57251
+      "viewCount": 57255
     },
     "youtubeTags": [
       "Angory",
@@ -5571,7 +5616,7 @@
       "commentCount": 80,
       "dislikeCount": 9,
       "likeCount": 1405,
-      "viewCount": 34394
+      "viewCount": 34403
     },
     "youtubeTags": [
       "Angory",
@@ -5601,7 +5646,7 @@
       "commentCount": 304,
       "dislikeCount": 18,
       "likeCount": 4418,
-      "viewCount": 88132
+      "viewCount": 88193
     },
     "youtubeTags": [
       "Angory",
@@ -5630,7 +5675,7 @@
       "commentCount": 134,
       "dislikeCount": 15,
       "likeCount": 3689,
-      "viewCount": 83006
+      "viewCount": 83079
     },
     "youtubeTags": [
       "Angory",
@@ -5657,7 +5702,7 @@
       "commentCount": 80,
       "dislikeCount": 4,
       "likeCount": 1590,
-      "viewCount": 33974
+      "viewCount": 33991
     },
     "youtubeTags": [
       "Angory",
@@ -5687,7 +5732,7 @@
       "commentCount": 226,
       "dislikeCount": 7,
       "likeCount": 1807,
-      "viewCount": 29395
+      "viewCount": 29405
     },
     "youtubeTags": [
       "Angory",
@@ -5712,9 +5757,9 @@
     "titel": "Which GIANT MONSTER are you? | QUIZTIME",
     "statistics": {
       "commentCount": 253,
-      "dislikeCount": 26,
-      "likeCount": 3691,
-      "viewCount": 81074
+      "dislikeCount": 27,
+      "likeCount": 3690,
+      "viewCount": 81148
     },
     "youtubeTags": [
       "Angory",
@@ -5743,7 +5788,7 @@
       "commentCount": 74,
       "dislikeCount": 9,
       "likeCount": 1285,
-      "viewCount": 30117
+      "viewCount": 30122
     },
     "youtubeTags": [
       "Angory",
@@ -5770,7 +5815,7 @@
       "commentCount": 68,
       "dislikeCount": 8,
       "likeCount": 874,
-      "viewCount": 27406
+      "viewCount": 27411
     },
     "youtubeTags": [
       "Angory",
@@ -5796,7 +5841,7 @@
       "commentCount": 165,
       "dislikeCount": 2,
       "likeCount": 1474,
-      "viewCount": 35727
+      "viewCount": 35751
     },
     "youtubeTags": [
       "Angory",
@@ -5823,7 +5868,7 @@
       "commentCount": 173,
       "dislikeCount": 6,
       "likeCount": 2715,
-      "viewCount": 35130
+      "viewCount": 35136
     },
     "youtubeTags": [
       "Angory",
@@ -5852,8 +5897,8 @@
     "statistics": {
       "commentCount": 126,
       "dislikeCount": 11,
-      "likeCount": 1697,
-      "viewCount": 40533
+      "likeCount": 1698,
+      "viewCount": 40550
     },
     "youtubeTags": [
       "Angory",
@@ -5880,7 +5925,7 @@
       "commentCount": 94,
       "dislikeCount": 12,
       "likeCount": 1485,
-      "viewCount": 40856
+      "viewCount": 40865
     },
     "youtubeTags": [
       "Angory",
@@ -5908,8 +5953,8 @@
     "statistics": {
       "commentCount": 267,
       "dislikeCount": 36,
-      "likeCount": 3868,
-      "viewCount": 70163
+      "likeCount": 3870,
+      "viewCount": 70223
     },
     "youtubeTags": [
       "Angory",
@@ -5929,7 +5974,7 @@
       "commentCount": 107,
       "dislikeCount": 18,
       "likeCount": 1652,
-      "viewCount": 50613
+      "viewCount": 50631
     },
     "youtubeTags": [
       "Angory",
@@ -5956,7 +6001,7 @@
       "commentCount": 167,
       "dislikeCount": 22,
       "likeCount": 2150,
-      "viewCount": 46019
+      "viewCount": 46025
     },
     "youtubeTags": [
       "Angory",
@@ -5980,7 +6025,7 @@
       "commentCount": 97,
       "dislikeCount": 9,
       "likeCount": 1767,
-      "viewCount": 43020
+      "viewCount": 43027
     },
     "youtubeTags": [
       "Angory",
@@ -6037,8 +6082,8 @@
     "statistics": {
       "commentCount": 289,
       "dislikeCount": 11,
-      "likeCount": 4495,
-      "viewCount": 45208
+      "likeCount": 4497,
+      "viewCount": 45214
     },
     "youtubeTags": [
       "Angory",
@@ -6066,8 +6111,8 @@
     "statistics": {
       "commentCount": 277,
       "dislikeCount": 23,
-      "likeCount": 3476,
-      "viewCount": 79327
+      "likeCount": 3477,
+      "viewCount": 79373
     },
     "youtubeTags": [
       "Angory",
@@ -6094,7 +6139,7 @@
       "commentCount": 85,
       "dislikeCount": 5,
       "likeCount": 2350,
-      "viewCount": 44209
+      "viewCount": 44220
     },
     "youtubeTags": [
       "Angory",
@@ -6151,7 +6196,7 @@
       "commentCount": 146,
       "dislikeCount": 14,
       "likeCount": 3075,
-      "viewCount": 64818
+      "viewCount": 64834
     },
     "youtubeTags": [
       "Angory",
@@ -6179,8 +6224,8 @@
     "statistics": {
       "commentCount": 133,
       "dislikeCount": 14,
-      "likeCount": 2441,
-      "viewCount": 45396
+      "likeCount": 2442,
+      "viewCount": 45420
     },
     "youtubeTags": [
       "Angory",
@@ -6240,8 +6285,8 @@
     "statistics": {
       "commentCount": 169,
       "dislikeCount": 5,
-      "likeCount": 2417,
-      "viewCount": 61550
+      "likeCount": 2418,
+      "viewCount": 61555
     },
     "youtubeTags": [
       "Angory",
@@ -6271,7 +6316,7 @@
       "commentCount": 75,
       "dislikeCount": 12,
       "likeCount": 1823,
-      "viewCount": 35015
+      "viewCount": 35020
     },
     "youtubeTags": [
       "Angory",
@@ -6296,8 +6341,8 @@
     "statistics": {
       "commentCount": 243,
       "dislikeCount": 7,
-      "likeCount": 3359,
-      "viewCount": 52515
+      "likeCount": 3360,
+      "viewCount": 52546
     },
     "youtubeTags": [
       "Angory",
@@ -6324,8 +6369,8 @@
     "statistics": {
       "commentCount": 236,
       "dislikeCount": 24,
-      "likeCount": 3249,
-      "viewCount": 56607
+      "likeCount": 3251,
+      "viewCount": 56648
     },
     "youtubeTags": [
       "Angory",
@@ -6351,8 +6396,8 @@
     "statistics": {
       "commentCount": 226,
       "dislikeCount": 28,
-      "likeCount": 3086,
-      "viewCount": 76351
+      "likeCount": 3088,
+      "viewCount": 76373
     },
     "youtubeTags": [
       "Angory",
@@ -6411,7 +6456,7 @@
       "commentCount": 306,
       "dislikeCount": 25,
       "likeCount": 4247,
-      "viewCount": 96719
+      "viewCount": 96734
     },
     "youtubeTags": [
       "Angory",
@@ -6468,8 +6513,8 @@
     "statistics": {
       "commentCount": 180,
       "dislikeCount": 19,
-      "likeCount": 3755,
-      "viewCount": 66125
+      "likeCount": 3759,
+      "viewCount": 66183
     },
     "youtubeTags": [
       "Angory",
@@ -6496,7 +6541,7 @@
       "commentCount": 686,
       "dislikeCount": 12,
       "likeCount": 3936,
-      "viewCount": 53563
+      "viewCount": 53564
     },
     "youtubeTags": [
       "Angory",
@@ -6521,7 +6566,7 @@
       "commentCount": 122,
       "dislikeCount": 10,
       "likeCount": 2405,
-      "viewCount": 43456
+      "viewCount": 43461
     },
     "youtubeTags": [
       "Angory",
@@ -6580,7 +6625,7 @@
       "commentCount": 250,
       "dislikeCount": 4,
       "likeCount": 2572,
-      "viewCount": 58033
+      "viewCount": 58036
     },
     "youtubeTags": [
       "Angory",
@@ -6605,7 +6650,7 @@
       "commentCount": 266,
       "dislikeCount": 13,
       "likeCount": 1414,
-      "viewCount": 38148
+      "viewCount": 38151
     },
     "youtubeTags": [
       "Angory",
@@ -6630,7 +6675,7 @@
       "commentCount": 157,
       "dislikeCount": 3,
       "likeCount": 2353,
-      "viewCount": 56233
+      "viewCount": 56242
     },
     "youtubeTags": [
       "Angory",
@@ -6655,7 +6700,7 @@
       "commentCount": 46,
       "dislikeCount": 10,
       "likeCount": 1272,
-      "viewCount": 27226
+      "viewCount": 27228
     },
     "youtubeTags": [
       "Angory",
@@ -6682,7 +6727,7 @@
       "commentCount": 124,
       "dislikeCount": 19,
       "likeCount": 2443,
-      "viewCount": 58084
+      "viewCount": 58092
     },
     "youtubeTags": [
       "Angory",
@@ -6706,8 +6751,8 @@
     "statistics": {
       "commentCount": 251,
       "dislikeCount": 39,
-      "likeCount": 5022,
-      "viewCount": 102382
+      "likeCount": 5025,
+      "viewCount": 102497
     },
     "youtubeTags": [
       "Angory",
@@ -6733,7 +6778,7 @@
       "commentCount": 158,
       "dislikeCount": 14,
       "likeCount": 2130,
-      "viewCount": 35480
+      "viewCount": 35483
     },
     "youtubeTags": [
       "Angory",
@@ -6760,7 +6805,7 @@
       "commentCount": 155,
       "dislikeCount": 2,
       "likeCount": 2473,
-      "viewCount": 59443
+      "viewCount": 59457
     },
     "youtubeTags": [
       "Angory",
@@ -6785,7 +6830,7 @@
       "commentCount": 121,
       "dislikeCount": 20,
       "likeCount": 2286,
-      "viewCount": 45512
+      "viewCount": 45517
     },
     "youtubeTags": [
       "Angory",
@@ -6810,7 +6855,7 @@
       "commentCount": 91,
       "dislikeCount": 13,
       "likeCount": 2668,
-      "viewCount": 66411
+      "viewCount": 66428
     },
     "youtubeTags": [
       "Angory",
@@ -6835,7 +6880,7 @@
       "commentCount": 231,
       "dislikeCount": 9,
       "likeCount": 3195,
-      "viewCount": 40746
+      "viewCount": 40751
     },
     "youtubeTags": [
       "Angory",
@@ -6894,8 +6939,8 @@
     "statistics": {
       "commentCount": 286,
       "dislikeCount": 27,
-      "likeCount": 3988,
-      "viewCount": 78458
+      "likeCount": 3989,
+      "viewCount": 78547
     },
     "youtubeTags": [
       "Angory",
@@ -6970,7 +7015,7 @@
       "commentCount": 58,
       "dislikeCount": 1,
       "likeCount": 1240,
-      "viewCount": 28449
+      "viewCount": 28454
     },
     "youtubeTags": [
       "Angory",
@@ -7005,7 +7050,7 @@
       "commentCount": 148,
       "dislikeCount": 14,
       "likeCount": 3257,
-      "viewCount": 78974
+      "viewCount": 78999
     },
     "youtubeTags": [
       "Angory",
@@ -7030,7 +7075,7 @@
       "commentCount": 144,
       "dislikeCount": 14,
       "likeCount": 2115,
-      "viewCount": 42143
+      "viewCount": 42148
     },
     "youtubeTags": [
       "Angory",
@@ -7056,7 +7101,7 @@
       "commentCount": 434,
       "dislikeCount": 15,
       "likeCount": 7977,
-      "viewCount": 91953
+      "viewCount": 91982
     },
     "youtubeTags": [
       "Angory",
@@ -7080,8 +7125,8 @@
     "statistics": {
       "commentCount": 411,
       "dislikeCount": 32,
-      "likeCount": 6009,
-      "viewCount": 95293
+      "likeCount": 6014,
+      "viewCount": 95374
     },
     "youtubeTags": [
       "Angory",
@@ -7106,7 +7151,7 @@
       "commentCount": 185,
       "dislikeCount": 13,
       "likeCount": 3469,
-      "viewCount": 90301
+      "viewCount": 90328
     },
     "youtubeTags": [
       "Angory",
@@ -7131,7 +7176,7 @@
       "commentCount": 222,
       "dislikeCount": 28,
       "likeCount": 2393,
-      "viewCount": 49508
+      "viewCount": 49514
     },
     "youtubeTags": [
       "Angory",
@@ -7157,7 +7202,7 @@
       "commentCount": 101,
       "dislikeCount": 2,
       "likeCount": 1298,
-      "viewCount": 31212
+      "viewCount": 31231
     },
     "youtubeTags": [
       "Angory",
@@ -7241,7 +7286,7 @@
       "commentCount": 67,
       "dislikeCount": 5,
       "likeCount": 1147,
-      "viewCount": 27423
+      "viewCount": 27432
     },
     "youtubeTags": [
       "Angory",
@@ -7275,7 +7320,7 @@
       "commentCount": 264,
       "dislikeCount": 29,
       "likeCount": 5090,
-      "viewCount": 130716
+      "viewCount": 130744
     },
     "youtubeTags": [
       "Angory",
@@ -7300,7 +7345,7 @@
       "commentCount": 93,
       "dislikeCount": 16,
       "likeCount": 2029,
-      "viewCount": 40280
+      "viewCount": 40290
     },
     "youtubeTags": [
       "Angory",
@@ -7325,8 +7370,8 @@
     "statistics": {
       "commentCount": 388,
       "dislikeCount": 30,
-      "likeCount": 5896,
-      "viewCount": 110900
+      "likeCount": 5898,
+      "viewCount": 110992
     },
     "youtubeTags": [
       "Angory",
@@ -7351,7 +7396,7 @@
       "commentCount": 49,
       "dislikeCount": 5,
       "likeCount": 1112,
-      "viewCount": 28564
+      "viewCount": 28569
     },
     "youtubeTags": [
       "Angory",
@@ -7411,7 +7456,7 @@
       "commentCount": 141,
       "dislikeCount": 18,
       "likeCount": 2241,
-      "viewCount": 41343
+      "viewCount": 41359
     },
     "youtubeTags": [
       "Angory",
@@ -7472,7 +7517,7 @@
       "commentCount": 131,
       "dislikeCount": 12,
       "likeCount": 2439,
-      "viewCount": 66686
+      "viewCount": 66694
     },
     "youtubeTags": [
       "Angory",
@@ -7497,7 +7542,7 @@
       "commentCount": 39,
       "dislikeCount": 2,
       "likeCount": 1113,
-      "viewCount": 27145
+      "viewCount": 27149
     },
     "youtubeTags": [
       "Angory",
@@ -7532,7 +7577,7 @@
       "commentCount": 348,
       "dislikeCount": 33,
       "likeCount": 2612,
-      "viewCount": 51305
+      "viewCount": 51313
     },
     "youtubeTags": [
       "Angory",
@@ -7557,8 +7602,8 @@
     "statistics": {
       "commentCount": 278,
       "dislikeCount": 12,
-      "likeCount": 2680,
-      "viewCount": 54448
+      "likeCount": 2681,
+      "viewCount": 54491
     },
     "youtubeTags": [
       "Angory",
@@ -7584,7 +7629,7 @@
       "commentCount": 47,
       "dislikeCount": 3,
       "likeCount": 1140,
-      "viewCount": 31048
+      "viewCount": 31050
     },
     "youtubeTags": [
       "Angory",
@@ -7619,7 +7664,7 @@
       "commentCount": 158,
       "dislikeCount": 8,
       "likeCount": 1721,
-      "viewCount": 30218
+      "viewCount": 30223
     },
     "youtubeTags": [
       "Angory",
@@ -7651,7 +7696,7 @@
       "commentCount": 43,
       "dislikeCount": 2,
       "likeCount": 1280,
-      "viewCount": 28655
+      "viewCount": 28670
     },
     "youtubeTags": [
       "Angory",
@@ -7686,7 +7731,7 @@
       "commentCount": 108,
       "dislikeCount": 10,
       "likeCount": 1577,
-      "viewCount": 40766
+      "viewCount": 40772
     },
     "youtubeTags": [
       "Angory",
@@ -7717,7 +7762,7 @@
       "commentCount": 50,
       "dislikeCount": 7,
       "likeCount": 1234,
-      "viewCount": 28697
+      "viewCount": 28699
     },
     "youtubeTags": [
       "Angory",
@@ -7777,8 +7822,8 @@
     "statistics": {
       "commentCount": 399,
       "dislikeCount": 69,
-      "likeCount": 6289,
-      "viewCount": 133938
+      "likeCount": 6292,
+      "viewCount": 134010
     },
     "youtubeTags": [
       "Angory",
@@ -7803,7 +7848,7 @@
       "commentCount": 44,
       "dislikeCount": 2,
       "likeCount": 1150,
-      "viewCount": 29495
+      "viewCount": 29500
     },
     "youtubeTags": [
       "Angory",
@@ -7838,7 +7883,7 @@
       "commentCount": 57,
       "dislikeCount": 17,
       "likeCount": 824,
-      "viewCount": 19747
+      "viewCount": 19748
     },
     "youtubeTags": [
       "Angory",
@@ -7864,7 +7909,7 @@
       "commentCount": 43,
       "dislikeCount": 7,
       "likeCount": 820,
-      "viewCount": 19961
+      "viewCount": 19966
     },
     "youtubeTags": [
       "Angory",
@@ -7919,7 +7964,7 @@
       "commentCount": 289,
       "dislikeCount": 5,
       "likeCount": 1328,
-      "viewCount": 30503
+      "viewCount": 30512
     },
     "youtubeTags": [
       "Angory",
@@ -8012,7 +8057,7 @@
       "commentCount": 38,
       "dislikeCount": 3,
       "likeCount": 1210,
-      "viewCount": 30565
+      "viewCount": 30576
     },
     "youtubeTags": [
       "Angory",
@@ -8074,7 +8119,7 @@
       "commentCount": 48,
       "dislikeCount": 5,
       "likeCount": 1319,
-      "viewCount": 30390
+      "viewCount": 30401
     },
     "youtubeTags": [
       "Angory",
@@ -8108,8 +8153,8 @@
     "statistics": {
       "commentCount": 551,
       "dislikeCount": 15,
-      "likeCount": 2856,
-      "viewCount": 62452
+      "likeCount": 2857,
+      "viewCount": 62482
     },
     "youtubeTags": [
       "Angory",
@@ -8137,7 +8182,7 @@
       "commentCount": 192,
       "dislikeCount": 45,
       "likeCount": 3195,
-      "viewCount": 88891
+      "viewCount": 88954
     },
     "youtubeTags": [
       "Angory",
@@ -8188,7 +8233,7 @@
       "commentCount": 89,
       "dislikeCount": 43,
       "likeCount": 1577,
-      "viewCount": 64455
+      "viewCount": 64465
     },
     "youtubeTags": [
       "Angory",
@@ -8215,7 +8260,7 @@
       "commentCount": 57,
       "dislikeCount": 5,
       "likeCount": 1404,
-      "viewCount": 35394
+      "viewCount": 35410
     },
     "youtubeTags": [
       "Angory",
@@ -8281,7 +8326,7 @@
       "commentCount": 75,
       "dislikeCount": 2,
       "likeCount": 1324,
-      "viewCount": 32645
+      "viewCount": 32655
     },
     "youtubeTags": [
       "Angory",
@@ -8315,8 +8360,8 @@
     "statistics": {
       "commentCount": 340,
       "dislikeCount": 42,
-      "likeCount": 7257,
-      "viewCount": 144752
+      "likeCount": 7259,
+      "viewCount": 144796
     },
     "youtubeTags": [
       "Angory",
@@ -8373,7 +8418,7 @@
       "commentCount": 80,
       "dislikeCount": 15,
       "likeCount": 1354,
-      "viewCount": 33373
+      "viewCount": 33379
     },
     "youtubeTags": [
       "Angory",
@@ -8408,7 +8453,7 @@
       "commentCount": 78,
       "dislikeCount": 7,
       "likeCount": 1305,
-      "viewCount": 34677
+      "viewCount": 34684
     },
     "youtubeTags": [
       "Angory",
@@ -8443,7 +8488,7 @@
       "commentCount": 159,
       "dislikeCount": 9,
       "likeCount": 1767,
-      "viewCount": 35678
+      "viewCount": 35679
     },
     "youtubeTags": [
       "Angory",
@@ -8468,7 +8513,7 @@
       "commentCount": 112,
       "dislikeCount": 2,
       "likeCount": 1444,
-      "viewCount": 38119
+      "viewCount": 38124
     },
     "youtubeTags": [
       "Angory",
@@ -8503,7 +8548,7 @@
       "commentCount": 50,
       "dislikeCount": 1,
       "likeCount": 1339,
-      "viewCount": 33376
+      "viewCount": 33394
     },
     "youtubeTags": [
       "Angory",
@@ -8538,7 +8583,7 @@
       "commentCount": 187,
       "dislikeCount": 6,
       "likeCount": 1615,
-      "viewCount": 38859
+      "viewCount": 38879
     },
     "youtubeTags": [
       "Angory",
@@ -8567,7 +8612,7 @@
       "commentCount": 70,
       "dislikeCount": 9,
       "likeCount": 1172,
-      "viewCount": 39395
+      "viewCount": 39415
     },
     "youtubeTags": [
       "Angory",
@@ -8628,7 +8673,7 @@
       "commentCount": 96,
       "dislikeCount": 16,
       "likeCount": 1538,
-      "viewCount": 35322
+      "viewCount": 35335
     },
     "youtubeTags": [
       "Angory",
@@ -8657,7 +8702,7 @@
       "commentCount": 81,
       "dislikeCount": 3,
       "likeCount": 1501,
-      "viewCount": 43318
+      "viewCount": 43348
     },
     "youtubeTags": [
       "Angory",
@@ -8692,7 +8737,7 @@
       "commentCount": 101,
       "dislikeCount": 5,
       "likeCount": 1160,
-      "viewCount": 19601
+      "viewCount": 19606
     },
     "youtubeTags": [
       "Angory",
@@ -8719,7 +8764,7 @@
       "commentCount": 194,
       "dislikeCount": 5,
       "likeCount": 897,
-      "viewCount": 20636
+      "viewCount": 20640
     },
     "youtubeTags": [
       "Angory",
@@ -8744,7 +8789,7 @@
       "commentCount": 72,
       "dislikeCount": 5,
       "likeCount": 1580,
-      "viewCount": 45228
+      "viewCount": 45235
     },
     "youtubeTags": [
       "Angory",
@@ -8779,7 +8824,7 @@
       "commentCount": 89,
       "dislikeCount": 7,
       "likeCount": 1706,
-      "viewCount": 39897
+      "viewCount": 39923
     },
     "youtubeTags": [
       "Angory",
@@ -8836,8 +8881,8 @@
     "statistics": {
       "commentCount": 107,
       "dislikeCount": 8,
-      "likeCount": 1725,
-      "viewCount": 49131
+      "likeCount": 1726,
+      "viewCount": 49163
     },
     "youtubeTags": [
       "Angory",
@@ -8872,7 +8917,7 @@
       "commentCount": 46,
       "dislikeCount": 8,
       "likeCount": 785,
-      "viewCount": 19097
+      "viewCount": 19099
     },
     "youtubeTags": [
       "Angory",
@@ -8899,7 +8944,7 @@
       "commentCount": 89,
       "dislikeCount": 8,
       "likeCount": 1608,
-      "viewCount": 43044
+      "viewCount": 43050
     },
     "youtubeTags": [
       "Angory",
@@ -8924,7 +8969,7 @@
       "commentCount": 191,
       "dislikeCount": 13,
       "likeCount": 2517,
-      "viewCount": 71206
+      "viewCount": 71227
     },
     "youtubeTags": [
       "Angory",
@@ -8958,7 +9003,7 @@
       "commentCount": 129,
       "dislikeCount": 16,
       "likeCount": 1599,
-      "viewCount": 49382
+      "viewCount": 49393
     },
     "youtubeTags": [
       "Angory",
@@ -8984,7 +9029,7 @@
       "commentCount": 210,
       "dislikeCount": 8,
       "likeCount": 1870,
-      "viewCount": 51514
+      "viewCount": 51531
     },
     "youtubeTags": [
       "Angory",
@@ -9035,7 +9080,7 @@
       "commentCount": 71,
       "dislikeCount": 3,
       "likeCount": 1045,
-      "viewCount": 19968
+      "viewCount": 19969
     },
     "youtubeTags": [
       "Angory",
@@ -9062,7 +9107,7 @@
       "commentCount": 136,
       "dislikeCount": 13,
       "likeCount": 2511,
-      "viewCount": 67966
+      "viewCount": 67999
     },
     "youtubeTags": [
       "Angory",
@@ -9087,8 +9132,8 @@
     "statistics": {
       "commentCount": 437,
       "dislikeCount": 21,
-      "likeCount": 4552,
-      "viewCount": 64775
+      "likeCount": 4553,
+      "viewCount": 64792
     },
     "youtubeTags": [
       "Angory",
@@ -9115,7 +9160,7 @@
       "commentCount": 382,
       "dislikeCount": 44,
       "likeCount": 2182,
-      "viewCount": 55663
+      "viewCount": 55672
     },
     "youtubeTags": [
       "Angory",
@@ -9168,7 +9213,7 @@
       "commentCount": 221,
       "dislikeCount": 17,
       "likeCount": 2619,
-      "viewCount": 73748
+      "viewCount": 73796
     },
     "youtubeTags": [
       "Angory",
@@ -9195,7 +9240,7 @@
       "commentCount": 56,
       "dislikeCount": 5,
       "likeCount": 1012,
-      "viewCount": 24329
+      "viewCount": 24331
     },
     "youtubeTags": [
       "Angory",
@@ -9222,7 +9267,7 @@
       "commentCount": 82,
       "dislikeCount": 6,
       "likeCount": 1325,
-      "viewCount": 27059
+      "viewCount": 27060
     },
     "youtubeTags": [
       "Angory",
@@ -9305,7 +9350,7 @@
       "commentCount": 68,
       "dislikeCount": 6,
       "likeCount": 1334,
-      "viewCount": 30779
+      "viewCount": 30780
     },
     "youtubeTags": [
       "Angory",
@@ -9358,8 +9403,8 @@
     "statistics": {
       "commentCount": 327,
       "dislikeCount": 6,
-      "likeCount": 2375,
-      "viewCount": 38707
+      "likeCount": 2376,
+      "viewCount": 38732
     },
     "youtubeTags": [
       "Angory",
@@ -9388,7 +9433,7 @@
       "commentCount": 139,
       "dislikeCount": 3,
       "likeCount": 735,
-      "viewCount": 22060
+      "viewCount": 22068
     },
     "youtubeTags": [
       "Angory",
@@ -9415,8 +9460,8 @@
     "statistics": {
       "commentCount": 187,
       "dislikeCount": 18,
-      "likeCount": 2292,
-      "viewCount": 60199
+      "likeCount": 2293,
+      "viewCount": 60215
     },
     "youtubeTags": [
       "Angory",
@@ -9442,8 +9487,8 @@
     "statistics": {
       "commentCount": 132,
       "dislikeCount": 6,
-      "likeCount": 1993,
-      "viewCount": 42493
+      "likeCount": 1994,
+      "viewCount": 42514
     },
     "youtubeTags": [
       "Angory",
@@ -9497,8 +9542,8 @@
     "statistics": {
       "commentCount": 265,
       "dislikeCount": 45,
-      "likeCount": 5090,
-      "viewCount": 165025
+      "likeCount": 5091,
+      "viewCount": 165130
     },
     "youtubeTags": [
       "Angory",
@@ -9523,7 +9568,7 @@
       "commentCount": 218,
       "dislikeCount": 5,
       "likeCount": 2681,
-      "viewCount": 46166
+      "viewCount": 46197
     },
     "youtubeTags": [
       "Angory",
@@ -9632,7 +9677,7 @@
       "commentCount": 138,
       "dislikeCount": 4,
       "likeCount": 1805,
-      "viewCount": 41366
+      "viewCount": 41398
     },
     "youtubeTags": [
       "Angory",
@@ -9660,7 +9705,7 @@
       "commentCount": 71,
       "dislikeCount": 4,
       "likeCount": 1447,
-      "viewCount": 30101
+      "viewCount": 30108
     },
     "youtubeTags": [
       "Angory",
@@ -9686,7 +9731,7 @@
       "commentCount": 141,
       "dislikeCount": 9,
       "likeCount": 2446,
-      "viewCount": 54794
+      "viewCount": 54828
     },
     "youtubeTags": [
       "Angory",
@@ -9713,7 +9758,7 @@
       "commentCount": 208,
       "dislikeCount": 8,
       "likeCount": 1634,
-      "viewCount": 30021
+      "viewCount": 30026
     },
     "youtubeTags": [
       "Angory",
@@ -9746,7 +9791,7 @@
       "commentCount": 76,
       "dislikeCount": 6,
       "likeCount": 1543,
-      "viewCount": 38611
+      "viewCount": 38619
     },
     "youtubeTags": [
       "Angory",
@@ -9776,7 +9821,7 @@
       "commentCount": 89,
       "dislikeCount": 4,
       "likeCount": 1216,
-      "viewCount": 29952
+      "viewCount": 29962
     },
     "youtubeTags": [
       "Angory",
@@ -9809,7 +9854,7 @@
       "commentCount": 132,
       "dislikeCount": 9,
       "likeCount": 1025,
-      "viewCount": 28236
+      "viewCount": 28248
     },
     "youtubeTags": [
       "Angory",
@@ -9840,7 +9885,7 @@
       "commentCount": 60,
       "dislikeCount": 12,
       "likeCount": 1613,
-      "viewCount": 41662
+      "viewCount": 41668
     },
     "youtubeTags": [
       "Angory",
@@ -9869,7 +9914,7 @@
       "commentCount": 66,
       "dislikeCount": 4,
       "likeCount": 1115,
-      "viewCount": 30371
+      "viewCount": 30375
     },
     "youtubeTags": [
       "Angory",
@@ -9902,7 +9947,7 @@
       "commentCount": 113,
       "dislikeCount": 13,
       "likeCount": 2569,
-      "viewCount": 67080
+      "viewCount": 67096
     },
     "youtubeTags": [
       "Angory",
@@ -9928,7 +9973,7 @@
       "commentCount": 66,
       "dislikeCount": 3,
       "likeCount": 1192,
-      "viewCount": 29035
+      "viewCount": 29040
     },
     "youtubeTags": [
       "Angory",
@@ -9989,7 +10034,7 @@
       "commentCount": 161,
       "dislikeCount": 27,
       "likeCount": 1870,
-      "viewCount": 40216
+      "viewCount": 40219
     },
     "youtubeTags": [
       "Angory",
@@ -10016,7 +10061,7 @@
       "commentCount": 71,
       "dislikeCount": 2,
       "likeCount": 1288,
-      "viewCount": 31904
+      "viewCount": 31911
     },
     "youtubeTags": [
       "Angory",
@@ -10049,7 +10094,7 @@
       "commentCount": 81,
       "dislikeCount": 9,
       "likeCount": 926,
-      "viewCount": 32292
+      "viewCount": 32303
     },
     "youtubeTags": [
       "Angory",
@@ -10075,7 +10120,7 @@
       "commentCount": 63,
       "dislikeCount": 2,
       "likeCount": 1526,
-      "viewCount": 31732
+      "viewCount": 31748
     },
     "youtubeTags": [
       "Angory",
@@ -10108,7 +10153,7 @@
       "commentCount": 63,
       "dislikeCount": 8,
       "likeCount": 1169,
-      "viewCount": 30749
+      "viewCount": 30769
     },
     "youtubeTags": [
       "Angory",
@@ -10168,7 +10213,7 @@
       "commentCount": 77,
       "dislikeCount": 4,
       "likeCount": 1297,
-      "viewCount": 35132
+      "viewCount": 35138
     },
     "youtubeTags": [
       "Angory",
@@ -10229,7 +10274,7 @@
       "commentCount": 88,
       "dislikeCount": 9,
       "likeCount": 1080,
-      "viewCount": 37925
+      "viewCount": 37934
     },
     "youtubeTags": [
       "Angory",
@@ -10253,7 +10298,7 @@
       "commentCount": 50,
       "dislikeCount": 7,
       "likeCount": 1299,
-      "viewCount": 30584
+      "viewCount": 30596
     },
     "youtubeTags": [
       "Angory",
@@ -10337,8 +10382,8 @@
     "statistics": {
       "commentCount": 152,
       "dislikeCount": 9,
-      "likeCount": 1764,
-      "viewCount": 40897
+      "likeCount": 1765,
+      "viewCount": 40910
     },
     "youtubeTags": [
       "Angory",
@@ -10368,7 +10413,7 @@
       "commentCount": 69,
       "dislikeCount": 2,
       "likeCount": 1284,
-      "viewCount": 34591
+      "viewCount": 34602
     },
     "youtubeTags": [
       "Angory",
@@ -10428,7 +10473,7 @@
       "commentCount": 92,
       "dislikeCount": 16,
       "likeCount": 1538,
-      "viewCount": 52658
+      "viewCount": 52668
     },
     "youtubeTags": [
       "Angory",
@@ -10454,7 +10499,7 @@
       "commentCount": 83,
       "dislikeCount": 4,
       "likeCount": 1384,
-      "viewCount": 31191
+      "viewCount": 31194
     },
     "youtubeTags": [
       "Angory",
@@ -10487,7 +10532,7 @@
       "commentCount": 130,
       "dislikeCount": 18,
       "likeCount": 2379,
-      "viewCount": 51768
+      "viewCount": 51774
     },
     "youtubeTags": [
       "Angory",
@@ -10513,8 +10558,8 @@
     "statistics": {
       "commentCount": 178,
       "dislikeCount": 20,
-      "likeCount": 3830,
-      "viewCount": 95354
+      "likeCount": 3831,
+      "viewCount": 95396
     },
     "youtubeTags": [
       "Angory",
@@ -10540,7 +10585,7 @@
       "commentCount": 110,
       "dislikeCount": 61,
       "likeCount": 1737,
-      "viewCount": 88691
+      "viewCount": 88702
     },
     "youtubeTags": [
       "Angory",
@@ -10591,8 +10636,8 @@
     "statistics": {
       "commentCount": 280,
       "dislikeCount": 9,
-      "likeCount": 1242,
-      "viewCount": 30839
+      "likeCount": 1243,
+      "viewCount": 30869
     },
     "youtubeTags": [
       "Angory",
@@ -10619,8 +10664,8 @@
     "statistics": {
       "commentCount": 85,
       "dislikeCount": 17,
-      "likeCount": 1741,
-      "viewCount": 38455
+      "likeCount": 1742,
+      "viewCount": 38464
     },
     "youtubeTags": [
       "Angory",
@@ -10680,7 +10725,7 @@
       "commentCount": 70,
       "dislikeCount": 3,
       "likeCount": 1503,
-      "viewCount": 37402
+      "viewCount": 37406
     },
     "youtubeTags": [
       "Angory",
@@ -10713,7 +10758,7 @@
       "commentCount": 90,
       "dislikeCount": 29,
       "likeCount": 1352,
-      "viewCount": 47676
+      "viewCount": 47686
     },
     "youtubeTags": [
       "Angory",
@@ -10770,7 +10815,7 @@
       "commentCount": 67,
       "dislikeCount": 2,
       "likeCount": 1308,
-      "viewCount": 34780
+      "viewCount": 34793
     },
     "youtubeTags": [
       "Angory",
@@ -10803,7 +10848,7 @@
       "commentCount": 96,
       "dislikeCount": 19,
       "likeCount": 1703,
-      "viewCount": 36302
+      "viewCount": 36307
     },
     "youtubeTags": [
       "Angory",
@@ -10830,7 +10875,7 @@
       "commentCount": 48,
       "dislikeCount": 3,
       "likeCount": 1242,
-      "viewCount": 34446
+      "viewCount": 34451
     },
     "youtubeTags": [
       "Angory",
@@ -10863,7 +10908,7 @@
       "commentCount": 54,
       "dislikeCount": 9,
       "likeCount": 1198,
-      "viewCount": 26522
+      "viewCount": 26523
     },
     "youtubeTags": [
       "Angory",
@@ -10887,7 +10932,7 @@
       "commentCount": 106,
       "dislikeCount": 7,
       "likeCount": 1334,
-      "viewCount": 36425
+      "viewCount": 36438
     },
     "youtubeTags": [
       "Angory",
@@ -10981,8 +11026,8 @@
     "statistics": {
       "commentCount": 204,
       "dislikeCount": 6,
-      "likeCount": 3132,
-      "viewCount": 58939
+      "likeCount": 3133,
+      "viewCount": 58977
     },
     "youtubeTags": [
       "Angory",
@@ -11069,7 +11114,7 @@
       "commentCount": 66,
       "dislikeCount": 9,
       "likeCount": 1384,
-      "viewCount": 42363
+      "viewCount": 42365
     },
     "youtubeTags": [
       "Angory",
@@ -11101,8 +11146,8 @@
     "statistics": {
       "commentCount": 303,
       "dislikeCount": 30,
-      "likeCount": 4705,
-      "viewCount": 90525
+      "likeCount": 4706,
+      "viewCount": 90574
     },
     "youtubeTags": [
       "Angory",
@@ -11127,7 +11172,7 @@
       "commentCount": 104,
       "dislikeCount": 10,
       "likeCount": 1409,
-      "viewCount": 44528
+      "viewCount": 44537
     },
     "youtubeTags": [
       "Angory",
@@ -11160,7 +11205,7 @@
       "commentCount": 358,
       "dislikeCount": 18,
       "likeCount": 2278,
-      "viewCount": 57845
+      "viewCount": 57859
     },
     "youtubeTags": [
       "Angory",
@@ -11188,7 +11233,7 @@
       "commentCount": 48,
       "dislikeCount": 2,
       "likeCount": 1380,
-      "viewCount": 44154
+      "viewCount": 44165
     },
     "youtubeTags": [
       "Angory",
@@ -11221,7 +11266,7 @@
       "commentCount": 96,
       "dislikeCount": 23,
       "likeCount": 1588,
-      "viewCount": 68881
+      "viewCount": 68897
     },
     "youtubeTags": [
       "Angory",
@@ -11246,7 +11291,7 @@
       "commentCount": 72,
       "dislikeCount": 5,
       "likeCount": 1484,
-      "viewCount": 45653
+      "viewCount": 45658
     },
     "youtubeTags": [
       "Angory",
@@ -11279,7 +11324,7 @@
       "commentCount": 274,
       "dislikeCount": 32,
       "likeCount": 4319,
-      "viewCount": 132409
+      "viewCount": 132431
     },
     "youtubeTags": [
       "Angory",
@@ -11303,8 +11348,8 @@
     "statistics": {
       "commentCount": 65,
       "dislikeCount": 6,
-      "likeCount": 1616,
-      "viewCount": 51897
+      "likeCount": 1617,
+      "viewCount": 51902
     },
     "youtubeTags": [
       "Angory",
@@ -11335,7 +11380,7 @@
       "commentCount": 353,
       "dislikeCount": 12,
       "likeCount": 2984,
-      "viewCount": 70858
+      "viewCount": 70909
     },
     "youtubeTags": [
       "Angory",
@@ -11357,8 +11402,8 @@
     "statistics": {
       "commentCount": 186,
       "dislikeCount": 18,
-      "likeCount": 2310,
-      "viewCount": 81883
+      "likeCount": 2311,
+      "viewCount": 81916
     },
     "youtubeTags": [
       "Angory",
@@ -11418,7 +11463,7 @@
       "commentCount": 231,
       "dislikeCount": 21,
       "likeCount": 2984,
-      "viewCount": 54845
+      "viewCount": 54851
     },
     "youtubeTags": [
       "Angory",
@@ -11443,7 +11488,7 @@
       "commentCount": 214,
       "dislikeCount": 8,
       "likeCount": 3382,
-      "viewCount": 36784
+      "viewCount": 36788
     },
     "youtubeTags": [
       "Angory",
@@ -11468,7 +11513,7 @@
       "commentCount": 73,
       "dislikeCount": 3,
       "likeCount": 1374,
-      "viewCount": 26400
+      "viewCount": 26405
     },
     "youtubeTags": [
       "Angory",
@@ -11496,8 +11541,8 @@
     "statistics": {
       "commentCount": 178,
       "dislikeCount": 43,
-      "likeCount": 2797,
-      "viewCount": 75769
+      "likeCount": 2798,
+      "viewCount": 75786
     },
     "youtubeTags": [
       "Angory",
@@ -11523,7 +11568,7 @@
       "commentCount": 41,
       "dislikeCount": 3,
       "likeCount": 980,
-      "viewCount": 23360
+      "viewCount": 23362
     },
     "youtubeTags": [
       "Angory",
@@ -11578,7 +11623,7 @@
       "commentCount": 48,
       "dislikeCount": 13,
       "likeCount": 1006,
-      "viewCount": 20743
+      "viewCount": 20748
     },
     "youtubeTags": [
       "Angory",
@@ -11602,7 +11647,7 @@
       "commentCount": 63,
       "dislikeCount": 11,
       "likeCount": 1439,
-      "viewCount": 26252
+      "viewCount": 26253
     },
     "youtubeTags": [
       "Angory",
@@ -11626,7 +11671,7 @@
       "commentCount": 44,
       "dislikeCount": 2,
       "likeCount": 1099,
-      "viewCount": 27127
+      "viewCount": 27133
     },
     "youtubeTags": [
       "Angory",
@@ -11652,7 +11697,7 @@
       "commentCount": 99,
       "dislikeCount": 14,
       "likeCount": 3263,
-      "viewCount": 44400
+      "viewCount": 44416
     },
     "youtubeTags": [
       "Angory",
@@ -11731,7 +11776,7 @@
       "commentCount": 41,
       "dislikeCount": 4,
       "likeCount": 1058,
-      "viewCount": 26533
+      "viewCount": 26535
     },
     "youtubeTags": [
       "Angory",
@@ -11764,7 +11809,7 @@
       "commentCount": 139,
       "dislikeCount": 11,
       "likeCount": 2431,
-      "viewCount": 34250
+      "viewCount": 34256
     },
     "youtubeTags": [
       "Angory",
@@ -11821,7 +11866,7 @@
       "commentCount": 119,
       "dislikeCount": 30,
       "likeCount": 2442,
-      "viewCount": 63445
+      "viewCount": 63458
     },
     "youtubeTags": [
       "Angory",
@@ -11846,7 +11891,7 @@
       "commentCount": 38,
       "dislikeCount": 5,
       "likeCount": 1068,
-      "viewCount": 32462
+      "viewCount": 32469
     },
     "youtubeTags": [
       "Angory",
@@ -11879,7 +11924,7 @@
       "commentCount": 38,
       "dislikeCount": 8,
       "likeCount": 758,
-      "viewCount": 15008
+      "viewCount": 15011
     },
     "youtubeTags": [
       "Angory",
@@ -11905,7 +11950,7 @@
       "commentCount": 88,
       "dislikeCount": 5,
       "likeCount": 1224,
-      "viewCount": 32584
+      "viewCount": 32600
     },
     "youtubeTags": [
       "Angory",
@@ -11938,7 +11983,7 @@
       "commentCount": 40,
       "dislikeCount": 5,
       "likeCount": 952,
-      "viewCount": 16901
+      "viewCount": 16903
     },
     "youtubeTags": [
       "Angory",
@@ -11963,7 +12008,7 @@
       "commentCount": 85,
       "dislikeCount": 4,
       "likeCount": 1254,
-      "viewCount": 25413
+      "viewCount": 25452
     },
     "youtubeTags": [
       "Angory",
@@ -11983,7 +12028,7 @@
       "commentCount": 61,
       "dislikeCount": 6,
       "likeCount": 1065,
-      "viewCount": 26701
+      "viewCount": 26702
     },
     "youtubeTags": [
       "Angory",
@@ -12012,7 +12057,7 @@
       "commentCount": 78,
       "dislikeCount": 6,
       "likeCount": 1615,
-      "viewCount": 35113
+      "viewCount": 35124
     },
     "youtubeTags": [
       "Angory",
@@ -12041,7 +12086,7 @@
       "commentCount": 43,
       "dislikeCount": 3,
       "likeCount": 1040,
-      "viewCount": 21795
+      "viewCount": 21811
     },
     "youtubeTags": [
       "Angory",
@@ -12061,7 +12106,7 @@
       "commentCount": 84,
       "dislikeCount": 20,
       "likeCount": 1738,
-      "viewCount": 48972
+      "viewCount": 48981
     },
     "youtubeTags": [
       "Angory",
@@ -12091,7 +12136,7 @@
       "commentCount": 148,
       "dislikeCount": 34,
       "likeCount": 1631,
-      "viewCount": 54410
+      "viewCount": 54415
     },
     "youtubeTags": [
       "Angory",
@@ -12117,8 +12162,8 @@
     "statistics": {
       "commentCount": 50,
       "dislikeCount": 4,
-      "likeCount": 1311,
-      "viewCount": 34876
+      "likeCount": 1312,
+      "viewCount": 34892
     },
     "youtubeTags": [
       "Angory",
@@ -12145,7 +12190,7 @@
       "commentCount": 69,
       "dislikeCount": 5,
       "likeCount": 1298,
-      "viewCount": 31938
+      "viewCount": 31953
     },
     "youtubeTags": [
       "Angory",
@@ -12171,7 +12216,7 @@
       "commentCount": 55,
       "dislikeCount": 5,
       "likeCount": 1108,
-      "viewCount": 23979
+      "viewCount": 23983
     },
     "youtubeTags": [
       "Angory",
@@ -12196,7 +12241,7 @@
       "commentCount": 55,
       "dislikeCount": 5,
       "likeCount": 993,
-      "viewCount": 23962
+      "viewCount": 23970
     },
     "youtubeTags": [
       "Angory",
@@ -12216,7 +12261,7 @@
       "commentCount": 138,
       "dislikeCount": 6,
       "likeCount": 1759,
-      "viewCount": 24675
+      "viewCount": 24688
     },
     "youtubeTags": [
       "Angory",
@@ -12241,7 +12286,7 @@
       "commentCount": 63,
       "dislikeCount": 5,
       "likeCount": 1249,
-      "viewCount": 31945
+      "viewCount": 31963
     },
     "youtubeTags": [
       "Angory",
@@ -12265,9 +12310,9 @@
     "titel": "Surviving Mars - Gameplay",
     "statistics": {
       "commentCount": 216,
-      "dislikeCount": 60,
+      "dislikeCount": 61,
       "likeCount": 3283,
-      "viewCount": 138799
+      "viewCount": 138813
     },
     "youtubeTags": [
       "Angory",
@@ -12294,7 +12339,7 @@
       "commentCount": 106,
       "dislikeCount": 11,
       "likeCount": 1892,
-      "viewCount": 43601
+      "viewCount": 43609
     },
     "youtubeTags": [
       "Angory",
@@ -12318,7 +12363,7 @@
       "commentCount": 38,
       "dislikeCount": 3,
       "likeCount": 1056,
-      "viewCount": 28478
+      "viewCount": 28486
     },
     "youtubeTags": [
       "Angory",
@@ -12342,7 +12387,7 @@
       "commentCount": 45,
       "dislikeCount": 9,
       "likeCount": 1211,
-      "viewCount": 35502
+      "viewCount": 35532
     },
     "youtubeTags": [
       "Angory",
@@ -12367,7 +12412,7 @@
       "commentCount": 61,
       "dislikeCount": 3,
       "likeCount": 1172,
-      "viewCount": 34976
+      "viewCount": 34991
     },
     "youtubeTags": [
       "Angory",
@@ -12413,10 +12458,10 @@
     "publishedAt": "2017-09-09T16:28:00.000Z",
     "titel": "Time For Payback - Starbound - Part #9",
     "statistics": {
-      "commentCount": 95,
+      "commentCount": 96,
       "dislikeCount": 4,
       "likeCount": 950,
-      "viewCount": 21601
+      "viewCount": 21605
     },
     "youtubeTags": [
       "Angory",
@@ -12440,7 +12485,7 @@
       "commentCount": 100,
       "dislikeCount": 14,
       "likeCount": 1848,
-      "viewCount": 51659
+      "viewCount": 51691
     },
     "youtubeTags": [
       "Angory",
@@ -12464,7 +12509,7 @@
       "commentCount": 50,
       "dislikeCount": 6,
       "likeCount": 1151,
-      "viewCount": 36058
+      "viewCount": 36068
     },
     "youtubeTags": [
       "Angory",
@@ -12489,8 +12534,8 @@
     "statistics": {
       "commentCount": 338,
       "dislikeCount": 410,
-      "likeCount": 5245,
-      "viewCount": 332140
+      "likeCount": 5246,
+      "viewCount": 332191
     },
     "youtubeTags": [
       "Angory",
@@ -12544,7 +12589,7 @@
       "commentCount": 48,
       "dislikeCount": 2,
       "likeCount": 1390,
-      "viewCount": 40221
+      "viewCount": 40226
     },
     "youtubeTags": [
       "Angory",
@@ -12595,7 +12640,7 @@
       "commentCount": 119,
       "dislikeCount": 27,
       "likeCount": 3120,
-      "viewCount": 87628
+      "viewCount": 87657
     },
     "youtubeTags": [
       "Angory",
@@ -12647,7 +12692,7 @@
       "commentCount": 120,
       "dislikeCount": 7,
       "likeCount": 1300,
-      "viewCount": 41444
+      "viewCount": 41463
     },
     "youtubeTags": [
       "Angory",
@@ -12672,7 +12717,7 @@
       "commentCount": 99,
       "dislikeCount": 6,
       "likeCount": 1512,
-      "viewCount": 38921
+      "viewCount": 38927
     },
     "youtubeTags": [
       "Angory",
@@ -12697,7 +12742,7 @@
       "commentCount": 28,
       "dislikeCount": 17,
       "likeCount": 1525,
-      "viewCount": 34151
+      "viewCount": 34156
     },
     "youtubeTags": [
       "Angory",
@@ -12723,7 +12768,7 @@
       "commentCount": 74,
       "dislikeCount": 5,
       "likeCount": 1355,
-      "viewCount": 41536
+      "viewCount": 41560
     },
     "youtubeTags": [
       "Angory",
@@ -12824,7 +12869,7 @@
       "commentCount": 116,
       "dislikeCount": 13,
       "likeCount": 2058,
-      "viewCount": 51914
+      "viewCount": 51919
     },
     "youtubeTags": [
       "Angory",
@@ -12849,7 +12894,7 @@
       "commentCount": 108,
       "dislikeCount": 33,
       "likeCount": 2100,
-      "viewCount": 71400
+      "viewCount": 71402
     },
     "youtubeTags": [
       "Angory",
@@ -12872,7 +12917,7 @@
       "commentCount": 173,
       "dislikeCount": 27,
       "likeCount": 1910,
-      "viewCount": 70510
+      "viewCount": 70517
     },
     "youtubeTags": [
       "Angory",
@@ -12895,7 +12940,7 @@
       "commentCount": 95,
       "dislikeCount": 7,
       "likeCount": 1305,
-      "viewCount": 40761
+      "viewCount": 40766
     },
     "youtubeTags": [
       "Angory",
@@ -12918,8 +12963,8 @@
     "statistics": {
       "commentCount": 162,
       "dislikeCount": 36,
-      "likeCount": 2372,
-      "viewCount": 71205
+      "likeCount": 2373,
+      "viewCount": 71220
     },
     "youtubeTags": [
       "Angory",
@@ -12942,7 +12987,7 @@
       "commentCount": 73,
       "dislikeCount": 10,
       "likeCount": 1456,
-      "viewCount": 42392
+      "viewCount": 42394
     },
     "youtubeTags": [
       "Angory",
@@ -12965,7 +13010,7 @@
       "commentCount": 77,
       "dislikeCount": 7,
       "likeCount": 1371,
-      "viewCount": 42804
+      "viewCount": 42810
     },
     "youtubeTags": [
       "Angory",
@@ -12990,7 +13035,7 @@
       "commentCount": 341,
       "dislikeCount": 31,
       "likeCount": 4185,
-      "viewCount": 100172
+      "viewCount": 100179
     },
     "youtubeTags": [
       "Angory",
@@ -13013,7 +13058,7 @@
       "commentCount": 84,
       "dislikeCount": 3,
       "likeCount": 1445,
-      "viewCount": 43992
+      "viewCount": 44010
     },
     "youtubeTags": [
       "Angory",
@@ -13062,7 +13107,7 @@
       "commentCount": 71,
       "dislikeCount": 8,
       "likeCount": 1538,
-      "viewCount": 52060
+      "viewCount": 52072
     },
     "youtubeTags": [
       "Angory",
@@ -13080,7 +13125,7 @@
       "commentCount": 182,
       "dislikeCount": 32,
       "likeCount": 2911,
-      "viewCount": 66042
+      "viewCount": 66047
     },
     "youtubeTags": [
       "Angory",
@@ -13102,7 +13147,7 @@
       "commentCount": 129,
       "dislikeCount": 10,
       "likeCount": 2323,
-      "viewCount": 78426
+      "viewCount": 78440
     },
     "youtubeTags": [
       "Angory",
@@ -13129,7 +13174,7 @@
       "commentCount": 298,
       "dislikeCount": 46,
       "likeCount": 4892,
-      "viewCount": 80290
+      "viewCount": 80331
     },
     "youtubeTags": [
       "Angory",
@@ -13203,7 +13248,7 @@
       "commentCount": 88,
       "dislikeCount": 23,
       "likeCount": 2049,
-      "viewCount": 53561
+      "viewCount": 53563
     },
     "youtubeTags": [
       "Angory",
@@ -13226,7 +13271,7 @@
       "commentCount": 67,
       "dislikeCount": 8,
       "likeCount": 1342,
-      "viewCount": 29038
+      "viewCount": 29040
     },
     "youtubeTags": [
       "Angory",
@@ -13251,7 +13296,7 @@
       "commentCount": 119,
       "dislikeCount": 25,
       "likeCount": 2017,
-      "viewCount": 59094
+      "viewCount": 59099
     },
     "youtubeTags": [
       "Angory",
@@ -13298,7 +13343,7 @@
       "commentCount": 182,
       "dislikeCount": 22,
       "likeCount": 3257,
-      "viewCount": 77598
+      "viewCount": 77603
     },
     "youtubeTags": [
       "Angory",
@@ -13352,7 +13397,7 @@
       "commentCount": 169,
       "dislikeCount": 1,
       "likeCount": 1573,
-      "viewCount": 31017
+      "viewCount": 31026
     },
     "youtubeTags": [
       "Angory",
@@ -13378,7 +13423,7 @@
       "commentCount": 63,
       "dislikeCount": 1,
       "likeCount": 972,
-      "viewCount": 22405
+      "viewCount": 22415
     },
     "youtubeTags": [
       "Angory",
@@ -13402,7 +13447,7 @@
       "commentCount": 133,
       "dislikeCount": 6,
       "likeCount": 1061,
-      "viewCount": 22367
+      "viewCount": 22371
     },
     "youtubeTags": [
       "Angory",
@@ -13426,7 +13471,7 @@
       "commentCount": 97,
       "dislikeCount": 7,
       "likeCount": 1237,
-      "viewCount": 30702
+      "viewCount": 30704
     },
     "youtubeTags": [
       "Angory",
@@ -13474,7 +13519,7 @@
       "commentCount": 94,
       "dislikeCount": 15,
       "likeCount": 1912,
-      "viewCount": 52946
+      "viewCount": 52951
     },
     "youtubeTags": [
       "Angory",
@@ -13547,7 +13592,7 @@
       "commentCount": 216,
       "dislikeCount": 19,
       "likeCount": 2785,
-      "viewCount": 73570
+      "viewCount": 73572
     },
     "youtubeTags": [
       "Angory",
@@ -13573,7 +13618,7 @@
       "commentCount": 66,
       "dislikeCount": 1,
       "likeCount": 927,
-      "viewCount": 25594
+      "viewCount": 25605
     },
     "youtubeTags": [
       "Angory",
@@ -13621,7 +13666,7 @@
       "commentCount": 48,
       "dislikeCount": 2,
       "likeCount": 878,
-      "viewCount": 24887
+      "viewCount": 24895
     },
     "youtubeTags": [
       "Angory",
@@ -13643,7 +13688,7 @@
       "commentCount": 47,
       "dislikeCount": 4,
       "likeCount": 913,
-      "viewCount": 25697
+      "viewCount": 25705
     },
     "youtubeTags": [
       "Angory",
@@ -13694,7 +13739,7 @@
       "commentCount": 37,
       "dislikeCount": 6,
       "likeCount": 859,
-      "viewCount": 25349
+      "viewCount": 25361
     },
     "youtubeTags": [
       "Angory",
@@ -13741,8 +13786,8 @@
     "statistics": {
       "commentCount": 47,
       "dislikeCount": 3,
-      "likeCount": 937,
-      "viewCount": 24946
+      "likeCount": 938,
+      "viewCount": 24953
     },
     "youtubeTags": [
       "Angory",
@@ -13764,8 +13809,8 @@
     "statistics": {
       "commentCount": 66,
       "dislikeCount": 4,
-      "likeCount": 1063,
-      "viewCount": 28433
+      "likeCount": 1064,
+      "viewCount": 28440
     },
     "youtubeTags": [
       "Angory",
@@ -13788,7 +13833,7 @@
       "commentCount": 51,
       "dislikeCount": 10,
       "likeCount": 654,
-      "viewCount": 14112
+      "viewCount": 14118
     },
     "youtubeTags": [
       "Angory",
@@ -13850,7 +13895,7 @@
       "commentCount": 71,
       "dislikeCount": 5,
       "likeCount": 1226,
-      "viewCount": 30349
+      "viewCount": 30354
     },
     "youtubeTags": [
       "Angory",
@@ -13872,7 +13917,7 @@
       "commentCount": 65,
       "dislikeCount": 2,
       "likeCount": 1168,
-      "viewCount": 25188
+      "viewCount": 25190
     },
     "youtubeTags": [
       "Angory",
@@ -13935,7 +13980,7 @@
       "commentCount": 130,
       "dislikeCount": 3,
       "likeCount": 1359,
-      "viewCount": 27736
+      "viewCount": 27737
     },
     "youtubeTags": [
       "Angory",
@@ -13958,7 +14003,7 @@
       "commentCount": 174,
       "dislikeCount": 7,
       "likeCount": 1679,
-      "viewCount": 32843
+      "viewCount": 32847
     },
     "youtubeTags": [
       "Angory",
@@ -14003,8 +14048,8 @@
     "statistics": {
       "commentCount": 117,
       "dislikeCount": 12,
-      "likeCount": 1851,
-      "viewCount": 42354
+      "likeCount": 1852,
+      "viewCount": 42358
     },
     "youtubeTags": [
       "Angory",
@@ -14025,7 +14070,7 @@
       "commentCount": 74,
       "dislikeCount": 4,
       "likeCount": 1140,
-      "viewCount": 34520
+      "viewCount": 34534
     },
     "youtubeTags": [
       "Angory",
@@ -14050,7 +14095,7 @@
       "commentCount": 85,
       "dislikeCount": 4,
       "likeCount": 1385,
-      "viewCount": 34598
+      "viewCount": 34607
     },
     "youtubeTags": [
       "Angory",
@@ -14076,7 +14121,7 @@
       "commentCount": 50,
       "dislikeCount": 3,
       "likeCount": 1177,
-      "viewCount": 36105
+      "viewCount": 36106
     },
     "youtubeTags": [
       "Angory",
@@ -14103,7 +14148,7 @@
       "commentCount": 69,
       "dislikeCount": 5,
       "likeCount": 1245,
-      "viewCount": 37791
+      "viewCount": 37805
     },
     "youtubeTags": [
       "Angory",
@@ -14152,7 +14197,7 @@
       "commentCount": 83,
       "dislikeCount": 3,
       "likeCount": 1303,
-      "viewCount": 44363
+      "viewCount": 44371
     },
     "youtubeTags": [
       "Angory",
@@ -14199,7 +14244,7 @@
       "commentCount": 144,
       "dislikeCount": 14,
       "likeCount": 2014,
-      "viewCount": 65167
+      "viewCount": 65173
     },
     "youtubeTags": [
       "Angory",
@@ -14278,7 +14323,7 @@
       "commentCount": 255,
       "dislikeCount": 16,
       "likeCount": 1846,
-      "viewCount": 39061
+      "viewCount": 39071
     },
     "youtubeTags": [
       "Angory",
@@ -14326,7 +14371,7 @@
       "commentCount": 148,
       "dislikeCount": 11,
       "likeCount": 1607,
-      "viewCount": 33921
+      "viewCount": 33925
     },
     "youtubeTags": [
       "Angory",
@@ -14378,7 +14423,7 @@
       "commentCount": 141,
       "dislikeCount": 3,
       "likeCount": 1417,
-      "viewCount": 27997
+      "viewCount": 27999
     },
     "youtubeTags": [
       "Angory",
@@ -14507,7 +14552,7 @@
       "commentCount": 191,
       "dislikeCount": 9,
       "likeCount": 1608,
-      "viewCount": 32988
+      "viewCount": 32993
     },
     "youtubeTags": [
       "Angory",
@@ -14530,7 +14575,7 @@
       "commentCount": 196,
       "dislikeCount": 4,
       "likeCount": 1538,
-      "viewCount": 27421
+      "viewCount": 27423
     },
     "youtubeTags": [
       "Angory",
@@ -14601,7 +14646,7 @@
       "commentCount": 53,
       "dislikeCount": 6,
       "likeCount": 1095,
-      "viewCount": 36533
+      "viewCount": 36546
     },
     "youtubeTags": [
       "Angory",
@@ -14628,7 +14673,7 @@
       "commentCount": 112,
       "dislikeCount": 17,
       "likeCount": 2017,
-      "viewCount": 44432
+      "viewCount": 44437
     },
     "youtubeTags": [
       "Angory",
@@ -14654,7 +14699,7 @@
       "commentCount": 60,
       "dislikeCount": 3,
       "likeCount": 1355,
-      "viewCount": 37186
+      "viewCount": 37202
     },
     "youtubeTags": [
       "Angory",
@@ -14680,7 +14725,7 @@
       "commentCount": 77,
       "dislikeCount": 6,
       "likeCount": 1232,
-      "viewCount": 37357
+      "viewCount": 37373
     },
     "youtubeTags": [
       "Angory",
@@ -14704,7 +14749,7 @@
       "commentCount": 65,
       "dislikeCount": 8,
       "likeCount": 1245,
-      "viewCount": 40193
+      "viewCount": 40207
     },
     "youtubeTags": [
       "Angory",
@@ -14731,7 +14776,7 @@
       "commentCount": 113,
       "dislikeCount": 12,
       "likeCount": 1563,
-      "viewCount": 30765
+      "viewCount": 30769
     },
     "youtubeTags": [
       "Angory",
@@ -14758,7 +14803,7 @@
       "commentCount": 59,
       "dislikeCount": 9,
       "likeCount": 1208,
-      "viewCount": 40701
+      "viewCount": 40711
     },
     "youtubeTags": [
       "Angory",
@@ -14785,7 +14830,7 @@
       "commentCount": 212,
       "dislikeCount": 13,
       "likeCount": 1844,
-      "viewCount": 37574
+      "viewCount": 37587
     },
     "youtubeTags": [
       "Angory",
@@ -14810,7 +14855,7 @@
       "commentCount": 86,
       "dislikeCount": 6,
       "likeCount": 1262,
-      "viewCount": 39965
+      "viewCount": 39969
     },
     "youtubeTags": [
       "Angory",
@@ -14835,10 +14880,10 @@
     "publishedAt": "2017-04-18T16:22:18.000Z",
     "titel": "Booze Bowl - Pyrion vs Tom - Part #2",
     "statistics": {
-      "commentCount": 67,
+      "commentCount": 68,
       "dislikeCount": 8,
       "likeCount": 1447,
-      "viewCount": 38503
+      "viewCount": 38511
     },
     "youtubeTags": [
       "Angory",
@@ -14862,8 +14907,8 @@
     "statistics": {
       "commentCount": 148,
       "dislikeCount": 24,
-      "likeCount": 3047,
-      "viewCount": 84973
+      "likeCount": 3049,
+      "viewCount": 84998
     },
     "youtubeTags": [
       "Angory",
@@ -14889,7 +14934,7 @@
       "commentCount": 40,
       "dislikeCount": 7,
       "likeCount": 1252,
-      "viewCount": 43328
+      "viewCount": 43353
     },
     "youtubeTags": [
       "Angory",
@@ -14916,7 +14961,7 @@
       "commentCount": 56,
       "dislikeCount": 1,
       "likeCount": 1238,
-      "viewCount": 42128
+      "viewCount": 42145
     },
     "youtubeTags": [
       "Angory",
@@ -14943,7 +14988,7 @@
       "commentCount": 89,
       "dislikeCount": 7,
       "likeCount": 1328,
-      "viewCount": 44985
+      "viewCount": 45005
     },
     "youtubeTags": [
       "Angory",
@@ -14998,7 +15043,7 @@
       "commentCount": 93,
       "dislikeCount": 6,
       "likeCount": 1418,
-      "viewCount": 47261
+      "viewCount": 47264
     },
     "youtubeTags": [
       "Angory",
@@ -15051,7 +15096,7 @@
       "commentCount": 84,
       "dislikeCount": 13,
       "likeCount": 1442,
-      "viewCount": 54121
+      "viewCount": 54126
     },
     "youtubeTags": [
       "Angory",
@@ -15076,7 +15121,7 @@
       "commentCount": 108,
       "dislikeCount": 6,
       "likeCount": 1768,
-      "viewCount": 54998
+      "viewCount": 55018
     },
     "youtubeTags": [
       "Angory",
@@ -15102,7 +15147,7 @@
       "commentCount": 185,
       "dislikeCount": 6,
       "likeCount": 1636,
-      "viewCount": 32256
+      "viewCount": 32267
     },
     "youtubeTags": [
       "Angory",
@@ -15127,7 +15172,7 @@
       "commentCount": 112,
       "dislikeCount": 4,
       "likeCount": 1800,
-      "viewCount": 57197
+      "viewCount": 57231
     },
     "youtubeTags": [
       "Angory",
@@ -15154,7 +15199,7 @@
       "commentCount": 81,
       "dislikeCount": 3,
       "likeCount": 1466,
-      "viewCount": 55930
+      "viewCount": 55946
     },
     "youtubeTags": [
       "Angory",
@@ -15182,7 +15227,7 @@
       "commentCount": 80,
       "dislikeCount": 8,
       "likeCount": 1521,
-      "viewCount": 60652
+      "viewCount": 60670
     },
     "youtubeTags": [
       "Angory",
@@ -15207,7 +15252,7 @@
       "commentCount": 120,
       "dislikeCount": 9,
       "likeCount": 1640,
-      "viewCount": 35509
+      "viewCount": 35517
     },
     "youtubeTags": [
       "Angory",
@@ -15231,7 +15276,7 @@
       "commentCount": 131,
       "dislikeCount": 8,
       "likeCount": 1727,
-      "viewCount": 60850
+      "viewCount": 60862
     },
     "youtubeTags": [
       "Angory",
@@ -15259,7 +15304,7 @@
       "commentCount": 240,
       "dislikeCount": 12,
       "likeCount": 3379,
-      "viewCount": 106782
+      "viewCount": 106821
     },
     "youtubeTags": [
       "Angory",
@@ -15284,7 +15329,7 @@
       "commentCount": 145,
       "dislikeCount": 11,
       "likeCount": 2516,
-      "viewCount": 34976
+      "viewCount": 34979
     },
     "youtubeTags": [
       "Angory",
@@ -15308,8 +15353,8 @@
     "statistics": {
       "commentCount": 220,
       "dislikeCount": 12,
-      "likeCount": 2656,
-      "viewCount": 50585
+      "likeCount": 2657,
+      "viewCount": 50597
     },
     "youtubeTags": [
       "Angory",
@@ -15334,7 +15379,7 @@
       "commentCount": 76,
       "dislikeCount": 2,
       "likeCount": 1234,
-      "viewCount": 35750
+      "viewCount": 35760
     },
     "youtubeTags": [
       "Angory",
@@ -15359,7 +15404,7 @@
     "statistics": {
       "commentCount": 220,
       "dislikeCount": 9,
-      "likeCount": 1939,
+      "likeCount": 1940,
       "viewCount": 42960
     },
     "youtubeTags": [
@@ -15436,7 +15481,7 @@
       "commentCount": 75,
       "dislikeCount": 8,
       "likeCount": 1242,
-      "viewCount": 38283
+      "viewCount": 38286
     },
     "youtubeTags": [
       "Angory",
@@ -15464,7 +15509,7 @@
       "commentCount": 148,
       "dislikeCount": 8,
       "likeCount": 2080,
-      "viewCount": 40769
+      "viewCount": 40776
     },
     "youtubeTags": [
       "Angory",
@@ -15488,7 +15533,7 @@
       "commentCount": 88,
       "dislikeCount": 12,
       "likeCount": 1330,
-      "viewCount": 39028
+      "viewCount": 39041
     },
     "youtubeTags": [
       "Angory",
@@ -15516,7 +15561,7 @@
       "commentCount": 57,
       "dislikeCount": 7,
       "likeCount": 1257,
-      "viewCount": 40624
+      "viewCount": 40636
     },
     "youtubeTags": [
       "Angory",
@@ -15544,7 +15589,7 @@
       "commentCount": 327,
       "dislikeCount": 7,
       "likeCount": 2536,
-      "viewCount": 44314
+      "viewCount": 44319
     },
     "youtubeTags": [
       "Angory",
@@ -15569,7 +15614,7 @@
       "commentCount": 36,
       "dislikeCount": 5,
       "likeCount": 1229,
-      "viewCount": 40530
+      "viewCount": 40543
     },
     "youtubeTags": [
       "Angory",
@@ -15597,7 +15642,7 @@
       "commentCount": 83,
       "dislikeCount": 16,
       "likeCount": 2354,
-      "viewCount": 50620
+      "viewCount": 50623
     },
     "youtubeTags": [
       "Angory",
@@ -15637,7 +15682,7 @@
       "commentCount": 149,
       "dislikeCount": 7,
       "likeCount": 1731,
-      "viewCount": 43759
+      "viewCount": 43766
     },
     "youtubeTags": [
       "Angory",
@@ -15661,7 +15706,7 @@
       "commentCount": 133,
       "dislikeCount": 53,
       "likeCount": 2235,
-      "viewCount": 56504
+      "viewCount": 56509
     },
     "youtubeTags": [
       "Angory",
@@ -15701,7 +15746,7 @@
       "commentCount": 42,
       "dislikeCount": 7,
       "likeCount": 1395,
-      "viewCount": 46421
+      "viewCount": 46429
     },
     "youtubeTags": [
       "Angory",
@@ -15726,7 +15771,7 @@
       "commentCount": 163,
       "dislikeCount": 12,
       "likeCount": 2807,
-      "viewCount": 74631
+      "viewCount": 74633
     },
     "youtubeTags": [
       "Angory",
@@ -15766,7 +15811,7 @@
       "commentCount": 158,
       "dislikeCount": 32,
       "likeCount": 2100,
-      "viewCount": 63501
+      "viewCount": 63509
     },
     "youtubeTags": [
       "Angory",
@@ -15790,7 +15835,7 @@
       "commentCount": 185,
       "dislikeCount": 14,
       "likeCount": 3207,
-      "viewCount": 83494
+      "viewCount": 83499
     },
     "youtubeTags": [
       "Angory",
@@ -15830,7 +15875,7 @@
       "commentCount": 90,
       "dislikeCount": 14,
       "likeCount": 1651,
-      "viewCount": 58448
+      "viewCount": 58455
     },
     "youtubeTags": [
       "Angory",
@@ -15856,7 +15901,7 @@
       "commentCount": 196,
       "dislikeCount": 21,
       "likeCount": 4959,
-      "viewCount": 117491
+      "viewCount": 117499
     },
     "youtubeTags": [
       "Angory",
@@ -15896,7 +15941,7 @@
       "commentCount": 188,
       "dislikeCount": 32,
       "likeCount": 4358,
-      "viewCount": 109423
+      "viewCount": 109445
     },
     "youtubeTags": [
       "Angory",
@@ -15918,8 +15963,8 @@
     "statistics": {
       "commentCount": 150,
       "dislikeCount": 7,
-      "likeCount": 2396,
-      "viewCount": 42350
+      "likeCount": 2398,
+      "viewCount": 42360
     },
     "youtubeTags": [
       "Angory",
@@ -15942,7 +15987,7 @@
       "commentCount": 75,
       "dislikeCount": 11,
       "likeCount": 1766,
-      "viewCount": 50738
+      "viewCount": 50741
     },
     "youtubeTags": [
       "Angory",
@@ -15965,8 +16010,8 @@
     "statistics": {
       "commentCount": 168,
       "dislikeCount": 8,
-      "likeCount": 2486,
-      "viewCount": 43733
+      "likeCount": 2487,
+      "viewCount": 43748
     },
     "youtubeTags": [
       "Angory",
@@ -15988,8 +16033,8 @@
     "statistics": {
       "commentCount": 131,
       "dislikeCount": 13,
-      "likeCount": 1767,
-      "viewCount": 44835
+      "likeCount": 1768,
+      "viewCount": 44841
     },
     "youtubeTags": [
       "Angory",
@@ -16012,8 +16057,8 @@
     "statistics": {
       "commentCount": 64,
       "dislikeCount": 7,
-      "likeCount": 1632,
-      "viewCount": 56499
+      "likeCount": 1633,
+      "viewCount": 56506
     },
     "youtubeTags": [
       "Angory",
@@ -16038,7 +16083,7 @@
       "commentCount": 48,
       "dislikeCount": 10,
       "likeCount": 1790,
-      "viewCount": 61631
+      "viewCount": 61638
     },
     "youtubeTags": [
       "Angory",
@@ -16061,7 +16106,7 @@
       "commentCount": 94,
       "dislikeCount": 9,
       "likeCount": 1736,
-      "viewCount": 45235
+      "viewCount": 45251
     },
     "youtubeTags": [
       "Angory",
@@ -16084,7 +16129,7 @@
       "commentCount": 118,
       "dislikeCount": 7,
       "likeCount": 2439,
-      "viewCount": 81584
+      "viewCount": 81602
     },
     "youtubeTags": [
       "Angory",
@@ -16107,7 +16152,7 @@
       "commentCount": 114,
       "dislikeCount": 15,
       "likeCount": 2010,
-      "viewCount": 50027
+      "viewCount": 50034
     },
     "youtubeTags": [
       "Angory",
@@ -16131,8 +16176,8 @@
     "statistics": {
       "commentCount": 188,
       "dislikeCount": 13,
-      "likeCount": 2071,
-      "viewCount": 52141
+      "likeCount": 2073,
+      "viewCount": 52161
     },
     "youtubeTags": [
       "Angory",
@@ -16150,7 +16195,7 @@
       "commentCount": 122,
       "dislikeCount": 7,
       "likeCount": 2224,
-      "viewCount": 43595
+      "viewCount": 43602
     },
     "youtubeTags": [
       "Angory",
@@ -16174,7 +16219,7 @@
       "commentCount": 93,
       "dislikeCount": 6,
       "likeCount": 1822,
-      "viewCount": 44612
+      "viewCount": 44646
     },
     "youtubeTags": [
       "Angory",
@@ -16198,7 +16243,7 @@
       "commentCount": 132,
       "dislikeCount": 14,
       "likeCount": 2210,
-      "viewCount": 61264
+      "viewCount": 61298
     },
     "youtubeTags": [
       "Angory",
@@ -16222,7 +16267,7 @@
       "commentCount": 194,
       "dislikeCount": 14,
       "likeCount": 2274,
-      "viewCount": 55797
+      "viewCount": 55818
     },
     "youtubeTags": [
       "Angory",
@@ -16247,7 +16292,7 @@
       "commentCount": 125,
       "dislikeCount": 4,
       "likeCount": 2126,
-      "viewCount": 47812
+      "viewCount": 47822
     },
     "youtubeTags": [
       "Angory",
@@ -16270,7 +16315,7 @@
       "commentCount": 161,
       "dislikeCount": 11,
       "likeCount": 2297,
-      "viewCount": 58538
+      "viewCount": 58590
     },
     "youtubeTags": [
       "Angory",
@@ -16293,7 +16338,7 @@
       "commentCount": 155,
       "dislikeCount": 9,
       "likeCount": 2235,
-      "viewCount": 54750
+      "viewCount": 54767
     },
     "youtubeTags": [
       "Angory",
@@ -16317,7 +16362,7 @@
       "commentCount": 149,
       "dislikeCount": 37,
       "likeCount": 2637,
-      "viewCount": 62055
+      "viewCount": 62083
     },
     "youtubeTags": [
       "Angory",
@@ -16340,7 +16385,7 @@
       "commentCount": 274,
       "dislikeCount": 12,
       "likeCount": 2837,
-      "viewCount": 55141
+      "viewCount": 55171
     },
     "youtubeTags": [
       "Angory",
@@ -16404,7 +16449,7 @@
       "commentCount": 285,
       "dislikeCount": 21,
       "likeCount": 2658,
-      "viewCount": 62168
+      "viewCount": 62195
     },
     "youtubeTags": [
       "Angory",
@@ -16422,7 +16467,7 @@
       "commentCount": 143,
       "dislikeCount": 3,
       "likeCount": 3535,
-      "viewCount": 44072
+      "viewCount": 44074
     },
     "youtubeTags": [
       "Angory",
@@ -16444,7 +16489,7 @@
       "commentCount": 125,
       "dislikeCount": 9,
       "likeCount": 2335,
-      "viewCount": 48299
+      "viewCount": 48315
     },
     "youtubeTags": [
       "Angory",
@@ -16467,7 +16512,7 @@
       "commentCount": 84,
       "dislikeCount": 2,
       "likeCount": 2480,
-      "viewCount": 49509
+      "viewCount": 49519
     },
     "youtubeTags": [
       "Angory",
@@ -16490,7 +16535,7 @@
       "commentCount": 205,
       "dislikeCount": 8,
       "likeCount": 2479,
-      "viewCount": 55911
+      "viewCount": 55931
     },
     "youtubeTags": [
       "Angory",
@@ -16514,7 +16559,7 @@
       "commentCount": 288,
       "dislikeCount": 40,
       "likeCount": 5807,
-      "viewCount": 93812
+      "viewCount": 93816
     },
     "youtubeTags": [
       "Astroneer",
@@ -16537,7 +16582,7 @@
       "commentCount": 134,
       "dislikeCount": 6,
       "likeCount": 2450,
-      "viewCount": 56163
+      "viewCount": 56181
     },
     "youtubeTags": [
       "Angory",
@@ -16560,7 +16605,7 @@
       "commentCount": 116,
       "dislikeCount": 15,
       "likeCount": 3261,
-      "viewCount": 63157
+      "viewCount": 63187
     },
     "youtubeTags": [
       "Angory",
@@ -16583,7 +16628,7 @@
       "commentCount": 153,
       "dislikeCount": 7,
       "likeCount": 2535,
-      "viewCount": 58407
+      "viewCount": 58422
     },
     "youtubeTags": [
       "Angory",
@@ -16606,8 +16651,8 @@
     "statistics": {
       "commentCount": 154,
       "dislikeCount": 4,
-      "likeCount": 2182,
-      "viewCount": 34652
+      "likeCount": 2183,
+      "viewCount": 34665
     },
     "youtubeTags": [
       "Angory tom",
@@ -16629,8 +16674,8 @@
     "statistics": {
       "commentCount": 165,
       "dislikeCount": 6,
-      "likeCount": 2964,
-      "viewCount": 64706
+      "likeCount": 2965,
+      "viewCount": 64733
     },
     "youtubeTags": [
       "Angory tom",
@@ -16654,7 +16699,7 @@
       "commentCount": 65,
       "dislikeCount": 3,
       "likeCount": 2052,
-      "viewCount": 48250
+      "viewCount": 48255
     },
     "youtubeTags": [
       "Angory tom",
@@ -16678,8 +16723,8 @@
     "statistics": {
       "commentCount": 113,
       "dislikeCount": 4,
-      "likeCount": 2639,
-      "viewCount": 51761
+      "likeCount": 2640,
+      "viewCount": 51773
     },
     "youtubeTags": [
       "Angory tom",
@@ -16704,7 +16749,7 @@
       "commentCount": 137,
       "dislikeCount": 5,
       "likeCount": 2472,
-      "viewCount": 58484
+      "viewCount": 58494
     },
     "youtubeTags": [
       "Angory tom",
@@ -16729,7 +16774,7 @@
       "commentCount": 136,
       "dislikeCount": 12,
       "likeCount": 2831,
-      "viewCount": 66156
+      "viewCount": 66170
     },
     "youtubeTags": [
       "Angory Tom",
@@ -16754,7 +16799,7 @@
       "commentCount": 82,
       "dislikeCount": 2,
       "likeCount": 2482,
-      "viewCount": 53687
+      "viewCount": 53711
     },
     "youtubeTags": [
       "Angory Tom",
@@ -16779,8 +16824,8 @@
     "statistics": {
       "commentCount": 196,
       "dislikeCount": 27,
-      "likeCount": 2938,
-      "viewCount": 95470
+      "likeCount": 2939,
+      "viewCount": 95505
     },
     "youtubeTags": [
       "ANgory tom",
@@ -16802,8 +16847,8 @@
     "statistics": {
       "commentCount": 231,
       "dislikeCount": 3,
-      "likeCount": 2077,
-      "viewCount": 65849
+      "likeCount": 2078,
+      "viewCount": 65869
     },
     "youtubeTags": [
       "Angory tom",
@@ -16824,7 +16869,7 @@
       "commentCount": 81,
       "dislikeCount": 11,
       "likeCount": 2074,
-      "viewCount": 64075
+      "viewCount": 64085
     },
     "youtubeTags": [
       "Angory tom",
@@ -16847,7 +16892,7 @@
       "commentCount": 112,
       "dislikeCount": 4,
       "likeCount": 2121,
-      "viewCount": 66191
+      "viewCount": 66228
     },
     "youtubeTags": [
       "Angor Tom",
@@ -16893,7 +16938,7 @@
       "commentCount": 138,
       "dislikeCount": 6,
       "likeCount": 2391,
-      "viewCount": 78658
+      "viewCount": 78674
     },
     "youtubeTags": [
       "Angory tom",
@@ -16917,7 +16962,7 @@
       "commentCount": 126,
       "dislikeCount": 9,
       "likeCount": 2290,
-      "viewCount": 76221
+      "viewCount": 76257
     },
     "youtubeTags": [
       "Angory Tom",
@@ -16963,7 +17008,7 @@
       "commentCount": 131,
       "dislikeCount": 5,
       "likeCount": 2677,
-      "viewCount": 82841
+      "viewCount": 82874
     },
     "youtubeTags": [
       "Angory tom",
@@ -17009,7 +17054,7 @@
       "commentCount": 151,
       "dislikeCount": 7,
       "likeCount": 2843,
-      "viewCount": 93037
+      "viewCount": 93055
     },
     "youtubeTags": [
       "Angory tom",
@@ -17057,7 +17102,7 @@
       "commentCount": 367,
       "dislikeCount": 43,
       "likeCount": 5096,
-      "viewCount": 393268
+      "viewCount": 393463
     },
     "youtubeTags": [
       "Angory Tom",
@@ -17108,7 +17153,7 @@
       "commentCount": 50,
       "dislikeCount": 3,
       "likeCount": 811,
-      "viewCount": 15168
+      "viewCount": 15171
     },
     "youtubeTags": [
       "angory tom",
@@ -17274,7 +17319,7 @@
       "commentCount": 66,
       "dislikeCount": 2,
       "likeCount": 1124,
-      "viewCount": 19700
+      "viewCount": 19705
     },
     "youtubeTags": [
       "Angor",
@@ -17407,7 +17452,7 @@
       "commentCount": 281,
       "dislikeCount": 18,
       "likeCount": 3372,
-      "viewCount": 67559
+      "viewCount": 67564
     },
     "youtubeTags": [
       "Angor Yogscast Angory Tom Planet Coaster lets play build funny Big Booty Bay"
@@ -17423,8 +17468,8 @@
     "statistics": {
       "commentCount": 239,
       "dislikeCount": 11,
-      "likeCount": 4653,
-      "viewCount": 70301
+      "likeCount": 4655,
+      "viewCount": 70310
     },
     "youtubeTags": [
       "Angor funny yogscast"
