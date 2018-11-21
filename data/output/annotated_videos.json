@@ -206,6 +206,24 @@
     ]
   },
   {
+    "annotation": {
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        },
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Lewis Brindley",
+          "nickname": "BlueXephos",
+          "short": "Lewis",
+          "twitter": "YogscastLewis"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "LSCRqpTpx8c",
@@ -1455,6 +1473,24 @@
     ]
   },
   {
+    "annotation": {
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We are getting in the mood of Red Dead, so we find out who we would be in the Wild West!\n\n#Quiztime #RedDead \n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "PLDySJ4gAyw",
@@ -1481,6 +1517,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "God's Basement",
+        "steam": "753930"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        },
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "If you have a Riddle, if no one else can help, and if you can find them...\nmaybe you can hire The RIDDLE BROS!\n\nAnd Riddle Bun\n\n#riddlebros #spooky #godsbasement\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "kHsbI4kzD1Y",
@@ -1505,6 +1563,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "The Dark Room",
+        "steam": "918530"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "I get stuck in a spooky dark room and must find my way out!\n\n#TheDarkRoom #Angory\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "6ckjXQ3i1t4",
@@ -1532,6 +1605,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "itch": "https://airdorf.itch.io/faith",
+        "name": "FAITH"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "Prepare for the most terrifying pixel journey of your life!\n\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "yTLN1VaGDPU",
@@ -1559,6 +1654,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "God's Basement",
+        "steam": "753930"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We see who was more scared and we go through God's Basement again and try to see what else it has in store for us. \n\n#God's Basement #Spooky\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "ofUXoEzCnVk",
@@ -1583,6 +1700,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Nimbatus - The Space Drone Constructor",
+        "steam": "383840"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "ALL HAIL THE GIGA MOTH!\n\n#moth #nimbatus\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "7m08X-WvYXg",
@@ -1608,6 +1740,27 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Dead Space 3"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "It turns out we cannot kill them! This is the worst!\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "eGE8YnIBtDg",
@@ -1635,6 +1788,24 @@
     ]
   },
   {
+    "annotation": {
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We are finding out what is the perfect spooky movie for us to watch this week. Maybe we are going a little far with the Halloween quizzes\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "Q8m7WIHsAYA",
@@ -1664,6 +1835,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Visage",
+        "steam": "594330"
+      },
+      "talent": [
+        {
+          "channel": "SquidGame",
+          "name": "Lydia",
+          "nickname": "SquidGame",
+          "short": "Lydia",
+          "twitter": "squidgaming"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "This game really ramps up and gets a lot scarier! \n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "TQoVO4W5HiI",
@@ -1691,6 +1884,24 @@
     ]
   },
   {
+    "annotation": {
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "dCUZzrI32RE",
@@ -1718,6 +1929,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Visage",
+        "steam": "594330"
+      },
+      "talent": [
+        {
+          "channel": "SquidGame",
+          "name": "Lydia",
+          "nickname": "SquidGame",
+          "short": "Lydia",
+          "twitter": "squidgaming"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "Fancy coming over late at night to see the spooky toys? You really do not... they are the worst. \n\nLydia's Twitch: https://www.twitch.tv/squidgame\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "IfOZlCfeuJA",
@@ -1749,6 +1982,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "God's Basement",
+        "steam": "753930"
+      },
+      "talent": [
+        {
+          "channel": "VeteranHarry",
+          "name": "Harry Marshall",
+          "nickname": "barryharry",
+          "short": "Harry",
+          "twitter": "barryharryy"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We wander around the dark corridors of God's Basement today. It is both scary and weird in equal measure!\n\n\nHarry/Barry - https://twitter.com/barryharryy\n\nCheck out God's Basement here\nhttps://store.steampowered.com/app/753930/Gods_Basement/\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "YUH21wAdtQc",
@@ -1779,6 +2034,27 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Dead Space 3"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We are the ladder boys!\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "sL_CytcAzh0",
@@ -1809,6 +2085,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Visage",
+        "steam": "594330"
+      },
+      "talent": [
+        {
+          "channel": "SquidGame",
+          "name": "Lydia",
+          "nickname": "SquidGame",
+          "short": "Lydia",
+          "twitter": "squidgaming"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "Lydia's Twitch: https://www.twitch.tv/squidgame\n\nWe are playing a spooky game today and getting scared all round!\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "1aLKWUP052s",
@@ -1840,6 +2138,24 @@
     ]
   },
   {
+    "annotation": {
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "DJnBAum4WfM",
@@ -1863,6 +2179,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Nimbatus - The Space Drone Constructor",
+        "steam": "383840"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "p9PDXIh1i7s",
@@ -1886,6 +2217,27 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Dead Space 3"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We finally did it, we let simon actually play a game. This time it is Deadspace 3 and it gets gory!\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "RG18p7zJ5-A",
@@ -1913,6 +2265,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Tracks - The Train Set Game",
+        "steam": "657240"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "So learning that we can place people.....we place a lot of people. No sign of tracks yet either, maybe oneday!\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "MbK_54ywn-o",
@@ -1943,6 +2310,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Nimbatus - The Space Drone Constructor",
+        "steam": "383840"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "The Battlemoth has taken to the skies in Nimbatus!\nBehold its majesty! \n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "l5DTHW2Id9M",
@@ -1968,6 +2350,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Deep Sky Derelicts",
+        "steam": "698640"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "Click here to get Deep Sky Derelicts on Steam and help me out: http://bit.ly/TomDSD\nThanks to 1C for sponsoring this video. \n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "CnS3l8r3y6w",
@@ -1996,6 +2393,21 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "name": "Cube Escape: Paradox",
+        "steam": "909080"
+      },
+      "talent": [
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We finish Rusty Lake Paradox this week and how could we have know what was coming. \n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "ISUgQPP1pkY",
@@ -2024,6 +2436,24 @@
     ]
   },
   {
+    "annotation": {
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "We learn about our dark secrets today based on making horror movies!\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "YE8eqF2rWA0",
@@ -2058,6 +2488,28 @@
     ]
   },
   {
+    "annotation": {
+      "game": {
+        "itch": "https://rg-crew.itch.io/rot",
+        "name": "ROT"
+      },
+      "talent": [
+        {
+          "channel": "UCH-_hzb2ILSCo9ftVSnrCIQ",
+          "name": "Simon Lane",
+          "nickname": "Simon Honeydew",
+          "short": "Simon",
+          "twitter": "simonhoneydew"
+        },
+        {
+          "channel": "UC5rUMdCFWPXYs9e8PBLzq5g",
+          "name": "Tom Clark",
+          "nickname": "Angory Tom",
+          "short": "Tom",
+          "twitter": "angory_tom"
+        }
+      ]
+    },
     "channelID": "UC5rUMdCFWPXYs9e8PBLzq5g",
     "description": "ROT - A surreal short horror game that confused Simon and myself to no end. We have no idea what we just played. \nShort film from Corridor Digital that this game is based on: https://www.youtube.com/watch?v=nFeKZcONmt4\n\n▬▬▬▬▬\n\nTwitter: https://twitter.com/Angory_Tom\n\nTwitch: https://www.twitch.tv/angorytom\n\nReddit: https://www.reddit.com/r/Yogscast\n\nMerch: https://store.yogscast.com/collections/tom",
     "id": "yyAh6QJehpI",

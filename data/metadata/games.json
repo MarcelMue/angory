@@ -55,6 +55,48 @@
     "steam": "572430"
   },
   {
+    "id": "tdr",
+    "name": "The Dark Room",
+    "steam": "918530"
+  },
+  {
+    "id": "faith",
+    "name": "FAITH",
+    "steam": "",
+    "itch": "https://airdorf.itch.io/faith"
+  },
+  {
+    "id": "nimbatus",
+    "name": "Nimbatus - The Space Drone Constructor",
+    "steam": "383840"
+  },
+  {
+    "id": "ds3",
+    "name": "Dead Space 3",
+    "steam": ""
+  },
+  {
+    "id": "visage",
+    "name": "Visage",
+    "steam": "594330"
+  },
+  {
+    "id": "dsd",
+    "name": "Deep Sky Derelicts",
+    "steam": "698640"
+  },
+  {
+    "id": "cep",
+    "name": "Cube Escape: Paradox",
+    "steam": "909080"
+  },
+  {
+    "id": "rot",
+    "name": "ROT",
+    "steam": "",
+    "itch": "https://rg-crew.itch.io/rot"
+  },
+  {
     "id": "tracks",
     "name": "Tracks - The Train Set Game",
     "steam": "657240"

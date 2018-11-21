@@ -10,8 +10,8 @@ import (
 	"github.com/juju/errors"
 	"github.com/spf13/cobra"
 
+	"github.com/marcelmue/angory/pkg/entities"
 	"github.com/marcelmue/angory/service/metadata"
-	"github.com/marcelmue/angory/service/metadata/video"
 )
 
 var (
@@ -49,7 +49,7 @@ func (c *Command) CobraCommand() *cobra.Command {
 }
 
 func (c *Command) Execute(cmd *cobra.Command, args []string) {
-	var annotatedVideos []*video.Video
+	var annotatedVideos []*entities.Video
 	{
 		config := metadata.Config{
 			GamesPath:            flags.GamesPath,

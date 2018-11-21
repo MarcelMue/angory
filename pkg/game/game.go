@@ -10,6 +10,7 @@ import (
 
 type Game struct {
 	ID    string `json:"id"`
+	Itch  string `json:"itch,omitempty"`
 	Name  string `json:"name,omitempty"`
 	Steam string `json:"steam,omitempty"`
 }
