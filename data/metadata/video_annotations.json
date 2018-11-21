@@ -239,5 +239,12 @@
       "simon",
       "tom"
     ]
+  },
+  {
+    "id": "o_IPNwaWb3U",
+    "gameID": "ph2",
+    "talentIDs": [
+      "tom"
+    ]
   }
 ]
