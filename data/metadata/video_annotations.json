@@ -239,5 +239,193 @@
       "simon",
       "tom"
     ]
+  },
+  {
+    "id": "o_IPNwaWb3U",
+    "gameID": "ph2",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "LSCRqpTpx8c",
+    "gameID": "tor",
+    "talentIDs": [
+      "tom",
+      "lewis"
+    ]
+  },
+  {
+    "id": "PLDySJ4gAyw",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "kHsbI4kzD1Y",
+    "gameID": "gb",
+    "talentIDs": [
+      "tom",
+      "simon"
+    ]
+  },
+  {
+    "id": "6ckjXQ3i1t4",
+    "gameID": "tdr",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "yTLN1VaGDPU",
+    "gameID": "faith",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "ofUXoEzCnVk",
+    "gameID": "gb",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "7m08X-WvYXg",
+    "gameID": "nimbatus",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "eGE8YnIBtDg",
+    "gameID": "ds3",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "Q8m7WIHsAYA",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "TQoVO4W5HiI",
+    "gameID": "visage",
+    "talentIDs": [
+      "lydia",
+      "tom"
+    ]
+  },
+  {
+    "id": "dCUZzrI32RE",
+    "gameID": "#ds3",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "IfOZlCfeuJA",
+    "gameID": "visage",
+    "talentIDs": [
+      "lydia",
+      "tom"
+    ]
+  },
+  {
+    "id": "YUH21wAdtQc",
+    "gameID": "gb",
+    "talentIDs": [
+      "harry",
+      "tom"
+    ]
+  },
+  {
+    "id": "sL_CytcAzh0",
+    "gameID": "ds3",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "1aLKWUP052s",
+    "gameID": "visage",
+    "talentIDs": [
+      "lydia",
+      "tom"
+    ]
+  },
+  {
+    "id": "DJnBAum4WfM",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "p9PDXIh1i7s",
+    "gameID": "nimbatus",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "RG18p7zJ5-A",
+    "gameID": "ds3",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "MbK_54ywn-o",
+    "gameID": "tracks",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "l5DTHW2Id9M",
+    "gameID": "nimbatus",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "CnS3l8r3y6w",
+    "gameID": "dsd",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "ISUgQPP1pkY",
+    "gameID": "cep",
+    "talentIDs": [
+      "tom"
+    ]
+  },
+  {
+    "id": "YE8eqF2rWA0",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
+  },
+  {
+    "id": "yyAh6QJehpI",
+    "gameID": "rot",
+    "talentIDs": [
+      "simon",
+      "tom"
+    ]
   }
 ]

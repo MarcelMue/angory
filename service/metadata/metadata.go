@@ -1,16 +1,11 @@
 package metadata
 
 import (
-	"encoding/json"
-	"io/ioutil"
-	"os"
-
 	"github.com/juju/errors"
 	"github.com/marcelmue/angory/pkg/annotation"
+	"github.com/marcelmue/angory/pkg/entities"
 	"github.com/marcelmue/angory/pkg/game"
 	"github.com/marcelmue/angory/pkg/talent"
-	"github.com/marcelmue/angory/service/metadata/video"
-	youtube "google.golang.org/api/youtube/v3"
 )
 
 type Config struct {
@@ -50,30 +45,30 @@ func New(config Config) (*Service, error) {
 	return s, nil
 }
 
-func (s *Service) AnnotateVideos() ([]*video.Video, error) {
+func (s *Service) AnnotateVideos() ([]*entities.Video, error) {
 	games, err := game.FromPath(s.gamesPath)
 	if err != nil {
-		return []*video.Video{}, errors.Trace(err)
+		return []*entities.Video{}, errors.Trace(err)
 	}
 	gamesMap := gamesMap(games)
 
 	talents, err := talent.FromPath(s.talentsPath)
 	if err != nil {
-		return []*video.Video{}, errors.Trace(err)
+		return []*entities.Video{}, errors.Trace(err)
 	}
 	talentsMap := talentsMap(talents)
 
 	annotations, err := annotation.FromPath(s.videoAnnotationsPath)
 	if err != nil {
-		return []*video.Video{}, errors.Trace(err)
+		return []*entities.Video{}, errors.Trace(err)
 	}
 	annotationsMap := annotationsMap(annotations, gamesMap, talentsMap)
 
-	videos, err := s.fromYoutubeVideosPath()
-
+	videos, err := entities.FromYoutubeVideosPath(s.youtubeVideosPath)
 	if err != nil {
-		return []*video.Video{}, errors.Trace(err)
+		return []*entities.Video{}, errors.Trace(err)
 	}
+
 	for _, video := range videos {
 		if val, ok := annotationsMap[video.ID]; ok {
 			video.Annotation = &val
@@ -82,60 +77,22 @@ func (s *Service) AnnotateVideos() ([]*video.Video, error) {
 	return videos, nil
 }
 
-func (s *Service) fromYoutubeVideosPath() ([]*video.Video, error) {
-	jsonFile, err := os.Open(s.youtubeVideosPath)
-	if err != nil {
-		return []*video.Video{}, errors.Trace(err)
-	}
-	defer jsonFile.Close()
-
-	byteValue, err := ioutil.ReadAll(jsonFile)
-	if err != nil {
-		return []*video.Video{}, errors.Trace(err)
-	}
-
-	var youtubeVideos []*youtube.Video
-	json.Unmarshal([]byte(byteValue), &youtubeVideos)
-
-	var result []*video.Video
-	for _, ytVideo := range youtubeVideos {
-		vid := &video.Video{
-			ChannelID:   ytVideo.Snippet.ChannelId,
-			Description: ytVideo.Snippet.Description,
-			ID:          ytVideo.Id,
-			Kind:        ytVideo.Kind,
-			PublishedAt: ytVideo.Snippet.PublishedAt,
-			Title:       ytVideo.Snippet.Title,
-			Statistics: video.Statistics{
-				CommentCount: int(ytVideo.Statistics.CommentCount),
-				DislikeCount: int(ytVideo.Statistics.DislikeCount),
-				LikeCount:    int(ytVideo.Statistics.LikeCount),
-				ViewCount:    int(ytVideo.Statistics.ViewCount),
-			},
-			YoutubeTags: ytVideo.Snippet.Tags,
-		}
-		result = append(result, vid)
-	}
-
-	return result, nil
-}
-
-func annotationsMap(annotations []annotation.Annotation, games map[string]video.Game, talents map[string]video.Talent) map[string]video.Annotation {
-	m := make(map[string]video.Annotation)
+func annotationsMap(annotations []annotation.Annotation, games map[string]entities.Game, talents map[string]entities.Talent) map[string]entities.Annotation {
+	m := make(map[string]entities.Annotation)
 	for _, annotation := range annotations {
-		var annotatedTalents []*video.Talent
+		var annotatedTalents []*entities.Talent
 		for _, talentID := range annotation.TalentIDs {
 			if val, ok := talents[talentID]; ok {
 				annotatedTalents = append(annotatedTalents, &val)
 			}
 		}
 
-		var annotatedGame *video.Game
+		var annotatedGame *entities.Game
 		if val, ok := games[annotation.GameID]; ok {
 			annotatedGame = &val
 		}
 
-		m[annotation.VideoID] = video.Annotation{
+		m[annotation.VideoID] = entities.Annotation{
 			Game:    annotatedGame,
 			Talents: annotatedTalents,
 		}
@@ -143,21 +100,22 @@ func annotationsMap(annotations []annotation.Annotation, games map[string]video.
 	return m
 }
 
-func gamesMap(games []game.Game) map[string]video.Game {
-	m := make(map[string]video.Game)
+func gamesMap(games []game.Game) map[string]entities.Game {
+	m := make(map[string]entities.Game)
 	for _, game := range games {
-		m[game.ID] = video.Game{
+		m[game.ID] = entities.Game{
 			Name:  game.Name,
 			Steam: game.Steam,
+			Itch:  game.Itch,
 		}
 	}
 	return m
 }
 
-func talentsMap(talents []talent.Talent) map[string]video.Talent {
-	m := make(map[string]video.Talent)
+func talentsMap(talents []talent.Talent) map[string]entities.Talent {
+	m := make(map[string]entities.Talent)
 	for _, talent := range talents {
-		m[talent.ID] = video.Talent{
+		m[talent.ID] = entities.Talent{
 			Channel:  talent.Channel,
 			Name:     talent.Name,
 			Nickname: talent.Nickname,
