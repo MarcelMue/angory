@@ -97,6 +97,40 @@
     "itch": "https://rg-crew.itch.io/rot"
   },
   {
+    "id": "ft",
+    "name": "Factory Town",
+    "steam": "860890"
+  },
+  {
+    "id": "choke",
+    "name": "Choke",
+    "itch": "https://eckartg.itch.io/choke"
+  },
+  {
+    "id": "perfection",
+    "name": "Perfection",
+    "itch": "https://yagmanx.itch.io/perfection"
+  },
+  {
+    "id": "sim",
+    "name": "Sara is missing",
+    "itch": "https://saraismissing.itch.io/sim"
+  },
+  {
+    "id": "tph",
+    "name": "Two Point Hospital",
+    "steam": "535930"
+  },
+  {
+    "id": "rw",
+    "name": "Realm War"
+  },
+  {
+    "id": "jd",
+    "name": "Judge Dredd: Dredd vs. Death",
+    "steam": "3710"
+  },
+  {
     "id": "tracks",
     "name": "Tracks - The Train Set Game",
     "steam": "657240"
