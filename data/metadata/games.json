@@ -97,6 +97,177 @@
     "itch": "https://rg-crew.itch.io/rot"
   },
   {
+    "id": "ft",
+    "name": "Factory Town",
+    "steam": "860890"
+  },
+  {
+    "id": "choke",
+    "name": "Choke",
+    "itch": "https://eckartg.itch.io/choke"
+  },
+  {
+    "id": "perfection",
+    "name": "Perfection",
+    "itch": "https://yagmanx.itch.io/perfection"
+  },
+  {
+    "id": "sim",
+    "name": "Sara is missing",
+    "itch": "https://saraismissing.itch.io/sim"
+  },
+  {
+    "id": "tph",
+    "name": "Two Point Hospital",
+    "steam": "535930"
+  },
+  {
+    "id": "rw",
+    "name": "Realm War"
+  },
+  {
+    "id": "jd",
+    "name": "Judge Dredd: Dredd vs. Death",
+    "steam": "3710"
+  },
+  {
+    "id": "ms",
+    "name": "Meeple Station",
+    "steam": "900010"
+  },
+  {
+    "id": "nt",
+    "name": "Not Tonight",
+    "steam": "733790"
+  },
+  {
+    "id": "deads",
+    "name": "Dead Secret",
+    "steam": "402260"
+  },
+  {
+    "id": "sb",
+    "name": "Strange Brigade",
+    "steam": "312670"
+  },
+  {
+    "id": "mc",
+    "name": "Minecraft"
+  },
+  {
+    "id": "wh",
+    "name": "Witch Hunt",
+    "steam": "661790"
+  },
+  {
+    "id": "v2",
+    "name": "Vermintide 2",
+    "steam": "552500"
+  },
+  {
+    "id": "nms",
+    "name": "No Man's Sky",
+    "steam": "275850"
+  },
+  {
+    "id": "tww2",
+    "name": "Total War: WARHAMMER II",
+    "steam": "594570"
+  },
+  {
+    "id": "pu",
+    "name": "Poly Universe",
+    "steam": "801040"
+  },
+  {
+    "id": "bot",
+    "name": "Beware of Trains",
+    "steam": "894270"
+  },
+  {
+    "id": "ftl",
+    "name": "FTL: Faster Than Light",
+    "steam": "212680"
+  },
+  {
+    "id": "nm",
+    "name": "Nippon Marathon",
+    "steam": "746940"
+  },
+  {
+    "id": "mugsters",
+    "name": "Mugsters",
+    "steam": "712180"
+  },
+  {
+    "id": "mifm",
+    "name": "M is for Murder",
+    "itch": "https://surrealefx.itch.io/misformurder"
+  },
+  {
+    "id": "rl",
+    "name": "Rolling Line",
+    "steam": "754150"
+  },
+  {
+    "id": "lfd",
+    "name": "Lust for Darkness",
+    "steam": "523650"
+  },
+  {
+    "id": "dw2",
+    "name": "Dungeon Warfare 2",
+    "steam": "698540"
+  },
+  {
+    "id": "mtc",
+    "name": "The Movie Trivia Challenge",
+    "steam": "875790"
+  },
+  {
+    "id": "roi",
+    "name": "Rise of Insanity",
+    "steam": "629220"
+  },
+  {
+    "id": "cli",
+    "name": "Crusaders of the Lost Idols",
+    "steam": "402840"
+  },
+  {
+    "id": "btd6",
+    "name": "Bloons TD 6"
+  },
+  {
+    "id": "fw",
+    "name": "First Winter",
+    "steam": "816120"
+  },
+  {
+    "id": "citystate",
+    "name": "Citystate",
+    "steam": "774351"
+  },
+  {
+    "id": "foundation",
+    "name": "Foundation",
+    "steam": "690830"
+  },
+  {
+    "id": "sv",
+    "name": "Stardew Valley",
+    "steam": "413150"
+  },
+  {
+    "id": "beware",
+    "name": "Beware"
+  },
+  {
+    "id": "ef",
+    "name": "Escape First",
+    "steam": "850450"
+  },
+  {
     "id": "tracks",
     "name": "Tracks - The Train Set Game",
     "steam": "657240"
